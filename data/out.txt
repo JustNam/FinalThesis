@@ -1,0 +1,1104 @@
+Got 6 round(s) procurement, 5 provider(s)
+Solution 1:
+    Buyer Profit: 6,351,121
+    SumOfProviders Profit: 6,774,555
+    Quality: 35.04
+    DiffOfProviders Profit: 800,337
+    Buyer Choice: 
+        Package 0 :  Provider 4
+                   Start date  26/01/2017
+                   Package cost: 3,805,809
+        Package 1 :  Provider 0
+                   Start date  06/05/2017
+                   Package cost: 2,194,421
+        Package 2 :  Provider 0
+                   Start date  06/05/2017
+                   Package cost: 10,468,985
+        Package 3 :  Provider 1
+                   Start date  06/05/2017
+                   Package cost: 2,691,939
+        Package 4 :  Provider 4
+                   Start date  17/03/2017
+                   Package cost: 3,878,936
+        Package 5 :  Provider 4
+                   Start date  26/01/2017
+                   Package cost: 4,041,685
+
+Solution 2:
+    Buyer Profit: 7,223,645
+    SumOfProviders Profit: 5,449,567
+    Quality: 29.52
+    DiffOfProviders Profit: 459,979
+    Buyer Choice: 
+        Package 0 :  Provider 4
+                   Start date  26/01/2017
+                   Package cost: 3,805,809
+        Package 1 :  Provider 0
+                   Start date  06/05/2017
+                   Package cost: 2,194,421
+        Package 2 :  Provider 0
+                   Start date  06/05/2017
+                   Package cost: 10,468,985
+        Package 3 :  Provider 1
+                   Start date  06/05/2017
+                   Package cost: 2,691,939
+        Package 4 :  Provider 4
+                   Start date  17/03/2017
+                   Package cost: 3,878,936
+        Package 5 :  Provider 1
+                   Start date  26/01/2017
+                   Package cost: 2,932,489
+
+Solution 3:
+    Buyer Profit: 6,095,487
+    SumOfProviders Profit: 6,255,757
+    Quality: 38.10
+    DiffOfProviders Profit: 1,025,000
+    Buyer Choice: 
+        Package 0 :  Provider 4
+                   Start date  26/01/2017
+                   Package cost: 3,805,809
+        Package 1 :  Provider 3
+                   Start date  06/05/2017
+                   Package cost: 2,519,396
+        Package 2 :  Provider 0
+                   Start date  06/05/2017
+                   Package cost: 10,468,985
+        Package 3 :  Provider 1
+                   Start date  06/05/2017
+                   Package cost: 2,691,939
+        Package 4 :  Provider 4
+                   Start date  17/03/2017
+                   Package cost: 3,878,936
+        Package 5 :  Provider 4
+                   Start date  26/01/2017
+                   Package cost: 4,041,685
+
+Solution 4:
+    Buyer Profit: 5,704,391
+    SumOfProviders Profit: 6,560,144
+    Quality: 39.72
+    DiffOfProviders Profit: 1,065,248
+    Buyer Choice: 
+        Package 0 :  Provider 4
+                   Start date  26/01/2017
+                   Package cost: 3,805,809
+        Package 1 :  Provider 0
+                   Start date  06/05/2017
+                   Package cost: 2,194,421
+        Package 2 :  Provider 0
+                   Start date  06/05/2017
+                   Package cost: 10,468,985
+        Package 3 :  Provider 3
+                   Start date  06/05/2017
+                   Package cost: 3,514,094
+        Package 4 :  Provider 4
+                   Start date  17/03/2017
+                   Package cost: 3,878,936
+        Package 5 :  Provider 4
+                   Start date  26/01/2017
+                   Package cost: 4,041,685
+
+Solution 5:
+    Buyer Profit: 4,438,256
+    SumOfProviders Profit: 8,945,212
+    Quality: 39.12
+    DiffOfProviders Profit: 1,503,075
+    Buyer Choice: 
+        Package 0 :  Provider 4
+                   Start date  26/01/2017
+                   Package cost: 3,805,809
+        Package 1 :  Provider 0
+                   Start date  06/05/2017
+                   Package cost: 2,194,421
+        Package 2 :  Provider 4
+                   Start date  06/05/2017
+                   Package cost: 12,900,712
+        Package 3 :  Provider 1
+                   Start date  06/05/2017
+                   Package cost: 2,691,939
+        Package 4 :  Provider 4
+                   Start date  17/03/2017
+                   Package cost: 3,878,936
+        Package 5 :  Provider 4
+                   Start date  26/01/2017
+                   Package cost: 4,041,685
+
+Solution 6:
+    Buyer Profit: 7,751,332
+    SumOfProviders Profit: 4,096,558
+    Quality: 24.42
+    DiffOfProviders Profit: 169,655
+    Buyer Choice: 
+        Package 0 :  Provider 4
+                   Start date  26/01/2017
+                   Package cost: 3,805,809
+        Package 1 :  Provider 0
+                   Start date  06/05/2017
+                   Package cost: 2,194,421
+        Package 2 :  Provider 0
+                   Start date  06/05/2017
+                   Package cost: 10,468,985
+        Package 3 :  Provider 1
+                   Start date  06/05/2017
+                   Package cost: 2,691,939
+        Package 4 :  Provider 0
+                   Start date  17/03/2017
+                   Package cost: 3,208,114
+        Package 5 :  Provider 1
+                   Start date  26/01/2017
+                   Package cost: 2,932,489
+
+Solution 7:
+    Buyer Profit: 6,968,011
+    SumOfProviders Profit: 4,930,769
+    Quality: 32.58
+    DiffOfProviders Profit: 684,642
+    Buyer Choice: 
+        Package 0 :  Provider 4
+                   Start date  26/01/2017
+                   Package cost: 3,805,809
+        Package 1 :  Provider 3
+                   Start date  06/05/2017
+                   Package cost: 2,519,396
+        Package 2 :  Provider 0
+                   Start date  06/05/2017
+                   Package cost: 10,468,985
+        Package 3 :  Provider 1
+                   Start date  06/05/2017
+                   Package cost: 2,691,939
+        Package 4 :  Provider 4
+                   Start date  17/03/2017
+                   Package cost: 3,878,936
+        Package 5 :  Provider 1
+                   Start date  26/01/2017
+                   Package cost: 2,932,489
+
+Solution 8:
+    Buyer Profit: 7,783,608
+    SumOfProviders Profit: 3,960,146
+    Quality: 24.00
+    DiffOfProviders Profit: 105,650
+    Buyer Choice: 
+        Package 0 :  Provider 1
+                   Start date  26/01/2017
+                   Package cost: 3,093,957
+        Package 1 :  Provider 0
+                   Start date  06/05/2017
+                   Package cost: 2,194,421
+        Package 2 :  Provider 0
+                   Start date  06/05/2017
+                   Package cost: 10,468,985
+        Package 3 :  Provider 1
+                   Start date  06/05/2017
+                   Package cost: 2,691,939
+        Package 4 :  Provider 4
+                   Start date  17/03/2017
+                   Package cost: 3,878,936
+        Package 5 :  Provider 1
+                   Start date  26/01/2017
+                   Package cost: 2,932,489
+
+Solution 9:
+    Buyer Profit: 5,310,780
+    SumOfProviders Profit: 7,620,224
+    Quality: 33.60
+    DiffOfProviders Profit: 1,226,214
+    Buyer Choice: 
+        Package 0 :  Provider 4
+                   Start date  26/01/2017
+                   Package cost: 3,805,809
+        Package 1 :  Provider 0
+                   Start date  06/05/2017
+                   Package cost: 2,194,421
+        Package 2 :  Provider 4
+                   Start date  06/05/2017
+                   Package cost: 12,900,712
+        Package 3 :  Provider 1
+                   Start date  06/05/2017
+                   Package cost: 2,691,939
+        Package 4 :  Provider 4
+                   Start date  17/03/2017
+                   Package cost: 3,878,936
+        Package 5 :  Provider 1
+                   Start date  26/01/2017
+                   Package cost: 2,932,489
+
+Solution 10:
+    Buyer Profit: 5,448,757
+    SumOfProviders Profit: 6,041,346
+    Quality: 42.78
+    DiffOfProviders Profit: 1,289,910
+    Buyer Choice: 
+        Package 0 :  Provider 4
+                   Start date  26/01/2017
+                   Package cost: 3,805,809
+        Package 1 :  Provider 3
+                   Start date  06/05/2017
+                   Package cost: 2,519,396
+        Package 2 :  Provider 0
+                   Start date  06/05/2017
+                   Package cost: 10,468,985
+        Package 3 :  Provider 3
+                   Start date  06/05/2017
+                   Package cost: 3,514,094
+        Package 4 :  Provider 4
+                   Start date  17/03/2017
+                   Package cost: 3,878,936
+        Package 5 :  Provider 4
+                   Start date  26/01/2017
+                   Package cost: 4,041,685
+
+Solution 11:
+    Buyer Profit: 4,182,621
+    SumOfProviders Profit: 8,426,414
+    Quality: 42.18
+    DiffOfProviders Profit: 1,784,939
+    Buyer Choice: 
+        Package 0 :  Provider 4
+                   Start date  26/01/2017
+                   Package cost: 3,805,809
+        Package 1 :  Provider 3
+                   Start date  06/05/2017
+                   Package cost: 2,519,396
+        Package 2 :  Provider 4
+                   Start date  06/05/2017
+                   Package cost: 12,900,712
+        Package 3 :  Provider 1
+                   Start date  06/05/2017
+                   Package cost: 2,691,939
+        Package 4 :  Provider 4
+                   Start date  17/03/2017
+                   Package cost: 3,878,936
+        Package 5 :  Provider 4
+                   Start date  26/01/2017
+                   Package cost: 4,041,685
+
+Solution 12:
+    Buyer Profit: 7,136,878
+    SumOfProviders Profit: 3,745,735
+    Quality: 28.68
+    DiffOfProviders Profit: 314,907
+    Buyer Choice: 
+        Package 0 :  Provider 1
+                   Start date  26/01/2017
+                   Package cost: 3,093,957
+        Package 1 :  Provider 0
+                   Start date  06/05/2017
+                   Package cost: 2,194,421
+        Package 2 :  Provider 0
+                   Start date  06/05/2017
+                   Package cost: 10,468,985
+        Package 3 :  Provider 3
+                   Start date  06/05/2017
+                   Package cost: 3,514,094
+        Package 4 :  Provider 4
+                   Start date  17/03/2017
+                   Package cost: 3,878,936
+        Package 5 :  Provider 1
+                   Start date  26/01/2017
+                   Package cost: 2,932,489
+
+Solution 13:
+    Buyer Profit: 6,321,281
+    SumOfProviders Profit: 4,716,358
+    Quality: 37.26
+    DiffOfProviders Profit: 949,553
+    Buyer Choice: 
+        Package 0 :  Provider 4
+                   Start date  26/01/2017
+                   Package cost: 3,805,809
+        Package 1 :  Provider 3
+                   Start date  06/05/2017
+                   Package cost: 2,519,396
+        Package 2 :  Provider 0
+                   Start date  06/05/2017
+                   Package cost: 10,468,985
+        Package 3 :  Provider 3
+                   Start date  06/05/2017
+                   Package cost: 3,514,094
+        Package 4 :  Provider 4
+                   Start date  17/03/2017
+                   Package cost: 3,878,936
+        Package 5 :  Provider 1
+                   Start date  26/01/2017
+                   Package cost: 2,932,489
+
+Solution 14:
+    Buyer Profit: 5,733,093
+    SumOfProviders Profit: 5,649,144
+    Quality: 30.96
+    DiffOfProviders Profit: 457,864
+    Buyer Choice: 
+        Package 0 :  Provider 0
+                   Start date  26/01/2017
+                   Package cost: 3,971,416
+        Package 1 :  Provider 0
+                   Start date  16/04/2017
+                   Package cost: 2,076,804
+        Package 2 :  Provider 0
+                   Start date  06/05/2017
+                   Package cost: 10,468,985
+        Package 3 :  Provider 1
+                   Start date  06/05/2017
+                   Package cost: 2,691,939
+        Package 4 :  Provider 4
+                   Start date  18/03/2017
+                   Package cost: 3,878,936
+        Package 5 :  Provider 4
+                   Start date  26/01/2017
+                   Package cost: 4,041,685
+
+Solution 15:
+    Buyer Profit: 5,055,146
+    SumOfProviders Profit: 7,101,426
+    Quality: 36.66
+    DiffOfProviders Profit: 1,508,077
+    Buyer Choice: 
+        Package 0 :  Provider 4
+                   Start date  26/01/2017
+                   Package cost: 3,805,809
+        Package 1 :  Provider 3
+                   Start date  06/05/2017
+                   Package cost: 2,519,396
+        Package 2 :  Provider 4
+                   Start date  06/05/2017
+                   Package cost: 12,900,712
+        Package 3 :  Provider 1
+                   Start date  06/05/2017
+                   Package cost: 2,691,939
+        Package 4 :  Provider 4
+                   Start date  17/03/2017
+                   Package cost: 3,878,936
+        Package 5 :  Provider 1
+                   Start date  26/01/2017
+                   Package cost: 2,932,489
+
+Solution 16:
+    Buyer Profit: 6,225,271
+    SumOfProviders Profit: 4,755,746
+    Quality: 36.74
+    DiffOfProviders Profit: 1,012,642
+    Buyer Choice: 
+        Package 0 :  Provider 4
+                   Start date  26/01/2017
+                   Package cost: 3,805,809
+        Package 1 :  Provider 3
+                   Start date  06/05/2017
+                   Package cost: 2,519,396
+        Package 2 :  Provider 0
+                   Start date  06/05/2017
+                   Package cost: 10,468,985
+        Package 3 :  Provider 1
+                   Start date  06/05/2017
+                   Package cost: 2,691,939
+        Package 4 :  Provider 4
+                   Start date  17/03/2017
+                   Package cost: 3,878,936
+        Package 5 :  Provider 3
+                   Start date  26/01/2017
+                   Package cost: 3,876,697
+
+Solution 17:
+    Buyer Profit: 4,307,985
+    SumOfProviders Profit: 7,819,801
+    Quality: 35.04
+    DiffOfProviders Profit: 1,140,017
+    Buyer Choice: 
+        Package 0 :  Provider 0
+                   Start date  26/01/2017
+                   Package cost: 3,971,416
+        Package 1 :  Provider 0
+                   Start date  06/05/2017
+                   Package cost: 2,194,421
+        Package 2 :  Provider 4
+                   Start date  06/05/2017
+                   Package cost: 12,900,712
+        Package 3 :  Provider 1
+                   Start date  06/05/2017
+                   Package cost: 2,691,939
+        Package 4 :  Provider 4
+                   Start date  17/03/2017
+                   Package cost: 3,878,936
+        Package 5 :  Provider 4
+                   Start date  26/01/2017
+                   Package cost: 4,041,685
+
+Solution 18:
+    Buyer Profit: 4,580,151
+    SumOfProviders Profit: 7,455,791
+    Quality: 33.60
+    DiffOfProviders Profit: 1,184,093
+    Buyer Choice: 
+        Package 0 :  Provider 1
+                   Start date  26/01/2017
+                   Package cost: 3,093,957
+        Package 1 :  Provider 0
+                   Start date  06/05/2017
+                   Package cost: 2,194,421
+        Package 2 :  Provider 4
+                   Start date  07/05/2017
+                   Package cost: 13,185,949
+        Package 3 :  Provider 1
+                   Start date  07/05/2017
+                   Package cost: 2,700,153
+        Package 4 :  Provider 4
+                   Start date  19/03/2017
+                   Package cost: 3,878,936
+        Package 5 :  Provider 4
+                   Start date  26/01/2017
+                   Package cost: 4,041,685
+
+Solution 19:
+    Buyer Profit: 6,008,719
+    SumOfProviders Profit: 4,551,925
+    Quality: 37.26
+    DiffOfProviders Profit: 879,927
+    Buyer Choice: 
+        Package 0 :  Provider 1
+                   Start date  26/01/2017
+                   Package cost: 3,093,957
+        Package 1 :  Provider 3
+                   Start date  06/05/2017
+                   Package cost: 2,519,396
+        Package 2 :  Provider 0
+                   Start date  06/05/2017
+                   Package cost: 10,468,985
+        Package 3 :  Provider 3
+                   Start date  06/05/2017
+                   Package cost: 3,514,094
+        Package 4 :  Provider 4
+                   Start date  17/03/2017
+                   Package cost: 3,878,936
+        Package 5 :  Provider 4
+                   Start date  26/01/2017
+                   Package cost: 4,041,685
+
+Solution 20:
+    Buyer Profit: 4,430,247
+    SumOfProviders Profit: 7,445,202
+    Quality: 37.76
+    DiffOfProviders Profit: 1,490,718
+    Buyer Choice: 
+        Package 0 :  Provider 4
+                   Start date  26/01/2017
+                   Package cost: 3,805,809
+        Package 1 :  Provider 0
+                   Start date  06/05/2017
+                   Package cost: 2,194,421
+        Package 2 :  Provider 4
+                   Start date  06/05/2017
+                   Package cost: 12,900,712
+        Package 3 :  Provider 1
+                   Start date  08/05/2017
+                   Package cost: 2,695,361
+        Package 4 :  Provider 4
+                   Start date  18/03/2017
+                   Package cost: 3,878,936
+        Package 5 :  Provider 3
+                   Start date  28/01/2017
+                   Package cost: 3,876,697
+
+Solution 21:
+    Buyer Profit: 3,535,891
+    SumOfProviders Profit: 8,212,003
+    Quality: 46.86
+    DiffOfProviders Profit: 1,972,063
+    Buyer Choice: 
+        Package 0 :  Provider 4
+                   Start date  26/01/2017
+                   Package cost: 3,805,809
+        Package 1 :  Provider 3
+                   Start date  06/05/2017
+                   Package cost: 2,519,396
+        Package 2 :  Provider 4
+                   Start date  06/05/2017
+                   Package cost: 12,900,712
+        Package 3 :  Provider 3
+                   Start date  06/05/2017
+                   Package cost: 3,514,094
+        Package 4 :  Provider 4
+                   Start date  17/03/2017
+                   Package cost: 3,878,936
+        Package 5 :  Provider 4
+                   Start date  26/01/2017
+                   Package cost: 4,041,685
+
+Solution 22:
+    Buyer Profit: 6,881,243
+    SumOfProviders Profit: 3,226,937
+    Quality: 31.74
+    DiffOfProviders Profit: 551,931
+    Buyer Choice: 
+        Package 0 :  Provider 1
+                   Start date  26/01/2017
+                   Package cost: 3,093,957
+        Package 1 :  Provider 3
+                   Start date  06/05/2017
+                   Package cost: 2,519,396
+        Package 2 :  Provider 0
+                   Start date  06/05/2017
+                   Package cost: 10,468,985
+        Package 3 :  Provider 3
+                   Start date  06/05/2017
+                   Package cost: 3,514,094
+        Package 4 :  Provider 4
+                   Start date  17/03/2017
+                   Package cost: 3,878,936
+        Package 5 :  Provider 1
+                   Start date  26/01/2017
+                   Package cost: 2,932,489
+
+Solution 23:
+    Buyer Profit: 5,416,378
+    SumOfProviders Profit: 5,000,652
+    Quality: 37.88
+    DiffOfProviders Profit: 863,421
+    Buyer Choice: 
+        Package 0 :  Provider 2
+                   Start date  26/01/2017
+                   Package cost: 4,171,945
+        Package 1 :  Provider 0
+                   Start date  06/05/2017
+                   Package cost: 2,194,421
+        Package 2 :  Provider 0
+                   Start date  06/05/2017
+                   Package cost: 10,468,985
+        Package 3 :  Provider 3
+                   Start date  06/05/2017
+                   Package cost: 3,514,094
+        Package 4 :  Provider 4
+                   Start date  17/03/2017
+                   Package cost: 3,878,936
+        Package 5 :  Provider 4
+                   Start date  26/01/2017
+                   Package cost: 4,041,685
+
+Solution 24:
+    Buyer Profit: 6,162,586
+    SumOfProviders Profit: 4,149,133
+    Quality: 29.60
+    DiffOfProviders Profit: 543,419
+    Buyer Choice: 
+        Package 0 :  Provider 0
+                   Start date  27/01/2017
+                   Package cost: 3,971,416
+        Package 1 :  Provider 0
+                   Start date  08/05/2017
+                   Package cost: 2,194,421
+        Package 2 :  Provider 0
+                   Start date  07/05/2017
+                   Package cost: 10,479,516
+        Package 3 :  Provider 1
+                   Start date  06/05/2017
+                   Package cost: 2,691,939
+        Package 4 :  Provider 4
+                   Start date  17/03/2017
+                   Package cost: 3,878,936
+        Package 5 :  Provider 3
+                   Start date  27/01/2017
+                   Package cost: 3,876,697
+
+Solution 25:
+    Buyer Profit: 2,954,232
+    SumOfProviders Profit: 8,730,802
+    Quality: 43.80
+    DiffOfProviders Profit: 1,747,400
+    Buyer Choice: 
+        Package 0 :  Provider 4
+                   Start date  01/02/2017
+                   Package cost: 3,808,895
+        Package 1 :  Provider 0
+                   Start date  18/04/2017
+                   Package cost: 2,081,389
+        Package 2 :  Provider 4
+                   Start date  06/05/2017
+                   Package cost: 12,900,712
+        Package 3 :  Provider 3
+                   Start date  10/05/2017
+                   Package cost: 3,514,094
+        Package 4 :  Provider 4
+                   Start date  18/03/2017
+                   Package cost: 3,878,936
+        Package 5 :  Provider 4
+                   Start date  26/01/2017
+                   Package cost: 4,041,685
+
+Solution 26:
+    Buyer Profit: 5,578,541
+    SumOfProviders Profit: 4,541,336
+    Quality: 41.42
+    DiffOfProviders Profit: 1,277,553
+    Buyer Choice: 
+        Package 0 :  Provider 4
+                   Start date  26/01/2017
+                   Package cost: 3,805,809
+        Package 1 :  Provider 3
+                   Start date  06/05/2017
+                   Package cost: 2,519,396
+        Package 2 :  Provider 0
+                   Start date  06/05/2017
+                   Package cost: 10,468,985
+        Package 3 :  Provider 3
+                   Start date  06/05/2017
+                   Package cost: 3,514,094
+        Package 4 :  Provider 4
+                   Start date  17/03/2017
+                   Package cost: 3,878,936
+        Package 5 :  Provider 3
+                   Start date  26/01/2017
+                   Package cost: 3,876,697
+
+Solution 27:
+    Buyer Profit: 3,921,310
+    SumOfProviders Profit: 7,230,792
+    Quality: 42.44
+    DiffOfProviders Profit: 1,735,043
+    Buyer Choice: 
+        Package 0 :  Provider 4
+                   Start date  26/01/2017
+                   Package cost: 3,805,809
+        Package 1 :  Provider 0
+                   Start date  06/05/2017
+                   Package cost: 2,194,421
+        Package 2 :  Provider 4
+                   Start date  06/05/2017
+                   Package cost: 12,900,712
+        Package 3 :  Provider 3
+                   Start date  06/05/2017
+                   Package cost: 3,514,094
+        Package 4 :  Provider 4
+                   Start date  17/03/2017
+                   Package cost: 3,878,936
+        Package 5 :  Provider 3
+                   Start date  26/01/2017
+                   Package cost: 3,876,697
+
+Solution 28:
+    Buyer Profit: 5,160,743
+    SumOfProviders Profit: 4,481,854
+    Quality: 40.94
+    DiffOfProviders Profit: 1,104,047
+    Buyer Choice: 
+        Package 0 :  Provider 2
+                   Start date  26/01/2017
+                   Package cost: 4,171,945
+        Package 1 :  Provider 3
+                   Start date  06/05/2017
+                   Package cost: 2,519,396
+        Package 2 :  Provider 0
+                   Start date  06/05/2017
+                   Package cost: 10,468,985
+        Package 3 :  Provider 3
+                   Start date  06/05/2017
+                   Package cost: 3,514,094
+        Package 4 :  Provider 4
+                   Start date  17/03/2017
+                   Package cost: 3,878,936
+        Package 5 :  Provider 4
+                   Start date  26/01/2017
+                   Package cost: 4,041,685
+
+Solution 29:
+    Buyer Profit: 4,774,456
+    SumOfProviders Profit: 5,285,134
+    Quality: 29.52
+    DiffOfProviders Profit: 390,354
+    Buyer Choice: 
+        Package 0 :  Provider 1
+                   Start date  22/01/2017
+                   Package cost: 3,093,957
+        Package 1 :  Provider 0
+                   Start date  13/04/2017
+                   Package cost: 2,076,804
+        Package 2 :  Provider 0
+                   Start date  09/05/2017
+                   Package cost: 10,470,038
+        Package 3 :  Provider 1
+                   Start date  06/05/2017
+                   Package cost: 2,691,939
+        Package 4 :  Provider 4
+                   Start date  18/03/2017
+                   Package cost: 3,878,936
+        Package 5 :  Provider 4
+                   Start date  28/01/2017
+                   Package cost: 4,059,583
+
+Solution 30:
+    Buyer Profit: 6,138,503
+    SumOfProviders Profit: 3,051,915
+    Quality: 35.90
+    DiffOfProviders Profit: 867,570
+    Buyer Choice: 
+        Package 0 :  Provider 1
+                   Start date  26/01/2017
+                   Package cost: 3,093,957
+        Package 1 :  Provider 3
+                   Start date  06/05/2017
+                   Package cost: 2,519,396
+        Package 2 :  Provider 0
+                   Start date  06/05/2017
+                   Package cost: 10,468,985
+        Package 3 :  Provider 3
+                   Start date  06/05/2017
+                   Package cost: 3,514,094
+        Package 4 :  Provider 4
+                   Start date  17/03/2017
+                   Package cost: 3,878,936
+        Package 5 :  Provider 3
+                   Start date  26/01/2017
+                   Package cost: 3,876,697
+
+Solution 31:
+    Buyer Profit: 6,033,268
+    SumOfProviders Profit: 3,156,866
+    Quality: 35.42
+    DiffOfProviders Profit: 805,349
+    Buyer Choice: 
+        Package 0 :  Provider 2
+                   Start date  26/01/2017
+                   Package cost: 4,171,945
+        Package 1 :  Provider 3
+                   Start date  06/05/2017
+                   Package cost: 2,519,396
+        Package 2 :  Provider 0
+                   Start date  06/05/2017
+                   Package cost: 10,468,985
+        Package 3 :  Provider 3
+                   Start date  06/05/2017
+                   Package cost: 3,514,094
+        Package 4 :  Provider 4
+                   Start date  17/03/2017
+                   Package cost: 3,878,936
+        Package 5 :  Provider 1
+                   Start date  26/01/2017
+                   Package cost: 2,932,489
+
+Solution 32:
+    Buyer Profit: 3,665,675
+    SumOfProviders Profit: 6,711,993
+    Quality: 45.50
+    DiffOfProviders Profit: 1,959,706
+    Buyer Choice: 
+        Package 0 :  Provider 4
+                   Start date  26/01/2017
+                   Package cost: 3,805,809
+        Package 1 :  Provider 3
+                   Start date  06/05/2017
+                   Package cost: 2,519,396
+        Package 2 :  Provider 4
+                   Start date  06/05/2017
+                   Package cost: 12,900,712
+        Package 3 :  Provider 3
+                   Start date  06/05/2017
+                   Package cost: 3,514,094
+        Package 4 :  Provider 4
+                   Start date  17/03/2017
+                   Package cost: 3,878,936
+        Package 5 :  Provider 3
+                   Start date  26/01/2017
+                   Package cost: 3,876,697
+
+Solution 33:
+    Buyer Profit: 4,770,482
+    SumOfProviders Profit: 4,301,089
+    Quality: 41.42
+    DiffOfProviders Profit: 1,153,465
+    Buyer Choice: 
+        Package 0 :  Provider 3
+                   Start date  26/01/2017
+                   Package cost: 4,668,064
+        Package 1 :  Provider 3
+                   Start date  06/05/2017
+                   Package cost: 2,519,396
+        Package 2 :  Provider 0
+                   Start date  06/05/2017
+                   Package cost: 10,468,985
+        Package 3 :  Provider 3
+                   Start date  06/05/2017
+                   Package cost: 3,514,094
+        Package 4 :  Provider 4
+                   Start date  17/03/2017
+                   Package cost: 3,878,936
+        Package 5 :  Provider 4
+                   Start date  26/01/2017
+                   Package cost: 4,041,685
+
+Solution 34:
+    Buyer Profit: 5,448,269
+    SumOfProviders Profit: 3,415,924
+    Quality: 37.34
+    DiffOfProviders Profit: 939,875
+    Buyer Choice: 
+        Package 0 :  Provider 0
+                   Start date  26/01/2017
+                   Package cost: 3,971,416
+        Package 1 :  Provider 3
+                   Start date  06/05/2017
+                   Package cost: 2,519,396
+        Package 2 :  Provider 0
+                   Start date  06/05/2017
+                   Package cost: 10,468,985
+        Package 3 :  Provider 3
+                   Start date  06/05/2017
+                   Package cost: 3,514,094
+        Package 4 :  Provider 4
+                   Start date  17/03/2017
+                   Package cost: 3,878,936
+        Package 5 :  Provider 3
+                   Start date  26/01/2017
+                   Package cost: 3,876,697
+
+Solution 35:
+    Buyer Profit: 5,643,007
+    SumOfProviders Profit: 2,976,101
+    Quality: 35.90
+    DiffOfProviders Profit: 813,107
+    Buyer Choice: 
+        Package 0 :  Provider 3
+                   Start date  26/01/2017
+                   Package cost: 4,668,064
+        Package 1 :  Provider 3
+                   Start date  06/05/2017
+                   Package cost: 2,519,396
+        Package 2 :  Provider 0
+                   Start date  06/05/2017
+                   Package cost: 10,468,985
+        Package 3 :  Provider 3
+                   Start date  06/05/2017
+                   Package cost: 3,514,094
+        Package 4 :  Provider 4
+                   Start date  17/03/2017
+                   Package cost: 3,878,936
+        Package 5 :  Provider 1
+                   Start date  26/01/2017
+                   Package cost: 2,932,489
+
+Solution 36:
+    Buyer Profit: 2,169,351
+    SumOfProviders Profit: 7,171,310
+    Quality: 41.96
+    DiffOfProviders Profit: 1,477,614
+    Buyer Choice: 
+        Package 0 :  Provider 2
+                   Start date  31/01/2017
+                   Package cost: 4,187,785
+        Package 1 :  Provider 0
+                   Start date  03/05/2017
+                   Package cost: 2,194,421
+        Package 2 :  Provider 4
+                   Start date  06/05/2017
+                   Package cost: 12,900,712
+        Package 3 :  Provider 3
+                   Start date  09/05/2017
+                   Package cost: 3,514,094
+        Package 4 :  Provider 4
+                   Start date  17/03/2017
+                   Package cost: 3,878,936
+        Package 5 :  Provider 4
+                   Start date  27/01/2017
+                   Package cost: 4,077,482
+
+Solution 37:
+    Buyer Profit: 3,510,329
+    SumOfProviders Profit: 3,890,075
+    Quality: 27.68
+    DiffOfProviders Profit: 287,846
+    Buyer Choice: 
+        Package 0 :  Provider 2
+                   Start date  22/01/2017
+                   Package cost: 4,172,230
+        Package 1 :  Provider 0
+                   Start date  05/05/2017
+                   Package cost: 2,194,421
+        Package 2 :  Provider 0
+                   Start date  10/05/2017
+                   Package cost: 10,470,038
+        Package 3 :  Provider 1
+                   Start date  10/05/2017
+                   Package cost: 2,695,361
+        Package 4 :  Provider 4
+                   Start date  17/03/2017
+                   Package cost: 3,878,936
+        Package 5 :  Provider 1
+                   Start date  29/01/2017
+                   Package cost: 2,932,489
+
+Solution 38:
+    Buyer Profit: 3,312,987
+    SumOfProviders Profit: 3,630,335
+    Quality: 32.66
+    DiffOfProviders Profit: 674,964
+    Buyer Choice: 
+        Package 0 :  Provider 0
+                   Start date  22/01/2017
+                   Package cost: 3,971,416
+        Package 1 :  Provider 3
+                   Start date  14/04/2017
+                   Package cost: 2,583,013
+        Package 2 :  Provider 0
+                   Start date  08/05/2017
+                   Package cost: 10,470,038
+        Package 3 :  Provider 1
+                   Start date  09/05/2017
+                   Package cost: 2,695,361
+        Package 4 :  Provider 4
+                   Start date  18/03/2017
+                   Package cost: 3,878,936
+        Package 5 :  Provider 3
+                   Start date  28/01/2017
+                   Package cost: 3,876,697
+
+Solution 39:
+    Buyer Profit: 16,336
+    SumOfProviders Profit: 7,605,390
+    Quality: 39.72
+    DiffOfProviders Profit: 1,404,927
+    Buyer Choice: 
+        Package 0 :  Provider 0
+                   Start date  26/01/2017
+                   Package cost: 3,971,416
+        Package 1 :  Provider 0
+                   Start date  09/05/2017
+                   Package cost: 2,194,421
+        Package 2 :  Provider 4
+                   Start date  06/05/2017
+                   Package cost: 12,900,712
+        Package 3 :  Provider 3
+                   Start date  06/05/2017
+                   Package cost: 3,514,094
+        Package 4 :  Provider 4
+                   Start date  13/03/2017
+                   Package cost: 3,878,936
+        Package 5 :  Provider 4
+                   Start date  23/01/2017
+                   Package cost: 4,042,746
+
+Solution 40:
+    Buyer Profit: 822,871
+    SumOfProviders Profit: 5,434,733
+    Quality: 35.64
+    DiffOfProviders Profit: 722,775
+    Buyer Choice: 
+        Package 0 :  Provider 0
+                   Start date  26/01/2017
+                   Package cost: 3,971,416
+        Package 1 :  Provider 0
+                   Start date  03/05/2017
+                   Package cost: 2,194,421
+        Package 2 :  Provider 0
+                   Start date  24/04/2017
+                   Package cost: 10,468,985
+        Package 3 :  Provider 3
+                   Start date  08/05/2017
+                   Package cost: 3,514,094
+        Package 4 :  Provider 4
+                   Start date  17/03/2017
+                   Package cost: 3,878,936
+        Package 5 :  Provider 4
+                   Start date  26/01/2017
+                   Package cost: 4,041,685
+
+Solution 41:
+    Buyer Profit: 8,137
+    SumOfProviders Profit: 6,652,511
+    Quality: 45.02
+    DiffOfProviders Profit: 1,718,239
+    Buyer Choice: 
+        Package 0 :  Provider 2
+                   Start date  25/01/2017
+                   Package cost: 4,171,945
+        Package 1 :  Provider 3
+                   Start date  03/05/2017
+                   Package cost: 2,519,396
+        Package 2 :  Provider 4
+                   Start date  06/05/2017
+                   Package cost: 12,900,712
+        Package 3 :  Provider 3
+                   Start date  06/05/2017
+                   Package cost: 3,514,094
+        Package 4 :  Provider 4
+                   Start date  17/03/2017
+                   Package cost: 3,878,936
+        Package 5 :  Provider 4
+                   Start date  27/01/2017
+                   Package cost: 4,077,482
+
+Solution 42:
+    Buyer Profit: 835,016
+    SumOfProviders Profit: 5,215,063
+    Quality: 33.20
+    DiffOfProviders Profit: 586,543
+    Buyer Choice: 
+        Package 0 :  Provider 2
+                   Start date  26/01/2017
+                   Package cost: 4,171,945
+        Package 1 :  Provider 0
+                   Start date  12/05/2017
+                   Package cost: 2,194,421
+        Package 2 :  Provider 0
+                   Start date  04/05/2017
+                   Package cost: 10,468,985
+        Package 3 :  Provider 1
+                   Start date  10/05/2017
+                   Package cost: 2,695,361
+        Package 4 :  Provider 4
+                   Start date  18/03/2017
+                   Package cost: 3,878,936
+        Package 5 :  Provider 4
+                   Start date  27/01/2017
+                   Package cost: 4,077,482
+
+Solution 43:
+    Buyer Profit: 823,947
+    SumOfProviders Profit: 5,152,501
+    Quality: 43.66
+    DiffOfProviders Profit: 1,746,315
+    Buyer Choice: 
+        Package 0 :  Provider 2
+                   Start date  23/01/2017
+                   Package cost: 4,172,801
+        Package 1 :  Provider 3
+                   Start date  09/05/2017
+                   Package cost: 2,519,396
+        Package 2 :  Provider 4
+                   Start date  11/05/2017
+                   Package cost: 12,930,376
+        Package 3 :  Provider 3
+                   Start date  06/05/2017
+                   Package cost: 3,514,094
+        Package 4 :  Provider 4
+                   Start date  18/03/2017
+                   Package cost: 3,878,936
+        Package 5 :  Provider 3
+                   Start date  26/01/2017
+                   Package cost: 3,876,697
+
+Solution 44:
+    Buyer Profit: 12,517
+    SumOfProviders Profit: 4,324,156
+    Quality: 25.44
+    DiffOfProviders Profit: 215,419
+    Buyer Choice: 
+        Package 0 :  Provider 0
+                   Start date  22/01/2017
+                   Package cost: 3,971,416
+        Package 1 :  Provider 0
+                   Start date  16/04/2017
+                   Package cost: 2,076,804
+        Package 2 :  Provider 0
+                   Start date  02/05/2017
+                   Package cost: 10,468,985
+        Package 3 :  Provider 1
+                   Start date  09/05/2017
+                   Package cost: 2,695,361
+        Package 4 :  Provider 4
+                   Start date  18/03/2017
+                   Package cost: 3,878,936
+        Package 5 :  Provider 1
+                   Start date  29/01/2017
+                   Package cost: 2,932,489
+
+
+Process finished with exit code 0
+

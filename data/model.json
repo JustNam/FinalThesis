@@ -1,0 +1,46 @@
+{
+    "project_id": "",
+    "description": "",
+    "inflation_rate": "",
+    "start_date": "",
+    "packages": [{
+      "package_id": "",
+      "estimated_cost": "",
+      "products": [{
+        "product_id": "",
+        "quantity": ""
+      }],
+      "joined_contractors": [0, 2, 3],
+      "timeline": {
+        "from": "",
+        "to": ""
+      }
+    }],
+    "product": [{
+      "product_id": "",
+      "description": "",
+      "unit": ""
+    }],
+    "contractors": [{
+      "contractor_id": "",
+      "description": "",
+      "quality": "",
+      "relationship": "",
+      "products": [{
+        "product_id": "",
+        "sell_price": "",
+        "buy_price": "",
+        "discounts": [{
+          "from": "",
+          "to": "",
+          "rate": ""
+        }]
+      }]
+    }],
+    "output_result": {
+      "package_id": {
+        "choice": "#contractor_id",
+        "execution_date": "execution_date"
+      }
+    }
+}

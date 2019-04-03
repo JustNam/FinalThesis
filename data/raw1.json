@@ -1,0 +1,282 @@
+{
+  "description": "ứng dụng công nghệ thông tin trong hoạt động các cơ quan Đảng tỉnh N",
+  "year_range": "2015-2020",
+  "packages": [
+    {
+      "description": "Bổ sung, thay thế thiết bị",
+      "estimated_cost": 22599728217,
+      "products": [
+        {
+          "description": "Máy trạm (PC)",
+          "quantity": 846,
+          "unit": "Bộ",
+          "price": 14545455
+        },
+        {
+          "description": "Máy tính xách tay",
+          "quantity": 50,
+          "unit": "Chiếc",
+          "price": 18181818
+        },
+        {
+          "description": "Máy in ",
+          "quantity": 510,
+          "unit": "Chiếc",
+          "price": 4545455
+        },
+        {
+          "description": "Máy in màu",
+          "quantity": 30,
+          "unit": "Chiếc",
+          "price": 13636364
+        },
+        {
+          "description": "Máy Scanner",
+          "quantity": 510,
+          "unit": "Chiếc",
+          "price": 3636364
+        },
+        {
+          "description": "Lưu điện máy chủ",
+          "quantity": 5,
+          "unit": "Chiếc",
+          "price": 20000000
+        },
+        {
+          "description": "Máy chiếu",
+          "quantity": 35,
+          "unit": "Chiếc",
+          "price": 22727273
+        },
+        {
+          "description": "Chống sét",
+          "quantity": 1,
+          "unit": "Điểm",
+          "price": 31818182
+        },
+        {
+          "description": "Modem ADSL",
+          "quantity": 480,
+          "unit": "Chiếc",
+          "price": 2727273
+        },
+        {
+          "description": "Router",
+          "quantity": 10,
+          "unit": "Bộ",
+          "price": 17000000
+        },
+        {
+          "description": "Switch",
+          "quantity": 510,
+          "unit": "Bộ",
+          "price": 4700000
+        }
+      ]
+    },
+    {
+      "description": "Nâng cấp, mở rộng Trung tâm dữ liệu",
+      "estimated_cost": 5588200000,
+      "products": [
+        {
+          "description": "Thiết bị định tuyến Cisco Router ISR4331-AX/K9 (hoặc tương đương)",
+          "quantity": 1,
+          "unit": "Bộ",
+          "price": 187300000
+        },
+        {
+          "description": "Chuyển mạch Switch Switch Cisco Catalyst WS-C2960X-24TS-L (hoặc tương đương)",
+          "quantity": 2,
+          "unit": "Bộ",
+          "price": 49900000
+        },
+        {
+          "description": "Máy chủ (Ảo hóa thành các máy chủ ứng dụng CSDL) Dell PowerEdge R730 (hoặc tương đương)",
+          "quantity": 3,
+          "unit": "Bộ",
+          "price": 625800000
+        },
+        {
+          "description": "Máy chủ ATK Dell PowerEdge R630 (hoặc tương đương)",
+          "quantity": 1,
+          "unit": "Bộ",
+          "price": 433700000
+        },
+        {
+          "description": "Máy chủ Virus + Kiểm soát kết nối internet Dell PowerEdge R630 (hoặc tương đương)",
+          "quantity": 2,
+          "unit": "Bộ",
+          "price": 162400000
+        },
+        {
+          "description": "Tủ đĩa lưu trữ SAN Dell PowerVault MD3820f,  16G Fibre Channel, 2U-24 drive (hoặc tương đương)",
+          "quantity": 2,
+          "unit": "Bộ",
+          "price": 479200000
+        },
+        {
+          "description": "SAN Switch Brocade 300 Ports-On-Demand 8Gb FC Switch (8 x 8G SFP + 16 Empty Ports) (hoặc tương đương)",
+          "quantity": 2,
+          "unit": "Bộ",
+          "price": 111400000
+        },
+        {
+          "description": "Tủ Rack Viet Rack 42U 19' (hoặc tương đương)",
+          "quantity": 1,
+          "unit": "Bộ",
+          "price": 100000000
+        },
+        {
+          "description": "Hệ thống UPS Eaton 9PX11KiRT 11kVa/10kW (hoặc tương đương)",
+          "quantity": 1,
+          "unit": "Bộ",
+          "price": 145000000
+        },
+        {
+          "description": "Hệ thống chống sét Emerson + APC (hoặc tương đương)",
+          "quantity": 1,
+          "unit": "Hệ thống",
+          "price": 105000000
+        },
+        {
+          "description": "Hệ thống báo cháy chay",
+          "quantity": 1,
+          "unit": "Hệ thống",
+          "price": 90000000
+        },
+        {
+          "description": "Hệ thống sàn nâng kỹ thuật Sàn nâng HPL Huatong cách tĩnh điện, chống cháy (hoặc tương đương)",
+          "quantity": 20,
+          "unit": "m2",
+          "price": 3000000
+        },
+        {
+          "description": "Hệ thống camera quan sát Avtech (hoặc tương đương)",
+          "quantity": 1,
+          "unit": "Hệ thống",
+          "price": 25000000
+        },
+        {
+          "description": "Hệ thống giám sát APC - ISX management and EMS system (hoặc tương đương)",
+          "quantity": 1,
+          "unit": "Hệ thống",
+          "price": 99500000
+        },
+        {
+          "description": "Hệ thống chiếu sáng, ổ cắm Sino (hoặc tương đương)",
+          "quantity": 1,
+          "unit": "Hệ thống",
+          "price": 15000000
+        },
+        {
+          "description": "Thi công hệ thống + cáp kết nối AMP (hoặc tương đương)",
+          "quantity": 1,
+          "unit": "Hệ thống",
+          "price": 100000000
+        },
+        {
+          "description": "HĐH cho máy chủ Microsoft (hoặc tương đương)",
+          "quantity": 1,
+          "unit": "Bộ",
+          "price": 610000000
+        },
+        {
+          "description": "Phần mềm backup Symatec Backup Exec 2014 (hoặc tương đương)",
+          "quantity": 1,
+          "unit": "bộ",
+          "price": 125000000
+        },
+        {
+          "description": "Phần mềm Antivirus cho máy chủ Kaspersky Anti-Virus for Windows File Server EE (hoặc tương đương)",
+          "quantity": 1,
+          "unit": "Bộ",
+          "price": 9500000
+        }
+      ]
+    },
+    {
+      "description": "Xây dựng Phòng họp trực tuyến",
+      "estimated_cost": 1789524000,
+      "products": [
+        {
+          "unit": "Bộ",
+          "description": "Thiết bị đầu cuối mã hóa video chuẩn Full HD 1080 Poycom Group 500",
+          "quantity": 1,
+          "price": 227040000
+        },
+        {
+          "unit": "Chiếc",
+          "description": "Hệ thống camera tự động bắt người phát biểu EagleEye Director",
+          "quantity": 1,
+          "price": 313500000
+        },
+        {
+          "unit": "Bộ",
+          "description": "Thiết bị bút vẽ điện tử Polycom UC Board",
+          "quantity": 1,
+          "price": 41800000
+        },
+        {
+          "unit": "Bộ",
+          "description": "Thiết bị ghi hình Polycom Media Suite Appliance Edition (2U Server)",
+          "quantity": 1,
+          "price": 705320000
+        },
+        {
+          "unit": "Chiếc",
+          "description": "Micro đa hướng đặt bàn Polycom Microphone Array",
+          "quantity": 2,
+          "price": 17600000
+        },
+        {
+          "unit": "Chiếc",
+          "description": "Màn hình lớn hiển thị chuyên nghiệp 65' Sam Sung UA65JU6600",
+          "quantity": 4,
+          "price": 83600000
+        },
+        {
+          "unit": "Chiếc",
+          "description": "Màn hình lớn hiển thị 48' cho chủ tọa Sam Sung UA48J5100",
+          "quantity": 1,
+          "price": 18744000
+        },
+        {
+          "unit": "Chiếc",
+          "description": "Màn hình hiển thị dữ liệu trình chiếu kết hợp với bút điện tử 24' Sam Sung UA24J4100",
+          "quantity": 1,
+          "price": 5720000
+        },
+        {
+          "unit": "Bộ",
+          "description": "Thiết bị phân phối tín hiệu hình ảnh ra các màn hình VM-8H của Kramer",
+          "quantity": 1,
+          "price": 33000000
+        },
+        {
+          "unit": "Bộ",
+          "description": "Bộ khuếch đại âm thanh 120W PLE-1MA120-EU của Bosch",
+          "quantity": 1,
+          "price": 11880000
+        },
+        {
+          "unit": "Chiếc",
+          "description": "Loa cột treo tường 12W LB1-UW12-L/D của Bosch",
+          "quantity": 6,
+          "price": 1760000
+        },
+        {
+          "unit": "Gói",
+          "description": "Vật tư, phụ kiện ( dự kiến )",
+          "quantity": 1,
+          "price": 31460000
+        },
+        {
+          "unit": "Gói",
+          "description": "Đào tạo hướng dẫn sử dụng, vận chuyển và Nhân công, lắp đặt",
+          "quantity": 1,
+          "price": 20900000
+        }
+      ]
+    }
+  ]
+}

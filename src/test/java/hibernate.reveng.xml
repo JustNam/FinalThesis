@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.org/dtd/hibernate-reverse-engineering-3.0.dtd" >
+
+<hibernate-reverse-engineering>
+  <table-filter match-catalog="risk_manager_real" match-name="ci_migrations"/>
+  <table-filter match-catalog="risk_manager_real" match-name="conflicts"/>
+  <table-filter match-catalog="risk_manager_real" match-name="fitness"/>
+  <table-filter match-catalog="risk_manager_real" match-name="ion_groups"/>
+  <table-filter match-catalog="risk_manager_real" match-name="ion_login_attempts"/>
+  <table-filter match-catalog="risk_manager_real" match-name="ion_users_groups"/>
+  <table-filter match-catalog="risk_manager_real" match-name="methods"/>
+  <table-filter match-catalog="risk_manager_real" match-name="projects"/>
+  <table-filter match-catalog="risk_manager_real" match-name="risk_types"/>
+  <table-filter match-catalog="risk_manager_real" match-name="risks"/>
+  <table-filter match-catalog="risk_manager_real" match-name="users"/>
+</hibernate-reverse-engineering>

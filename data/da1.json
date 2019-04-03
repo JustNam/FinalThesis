@@ -1,0 +1,4977 @@
+{
+  "project_id": 0,
+  "inflation_rate": 0.03,
+  "start_date": "1/1/2017",
+  "packages": [
+    {
+      "package_id": 0,
+      "timeline": {
+        "from": "6/6/2017",
+        "to": "6/8/2017"
+      },
+      "joined_contractors": [
+        2,
+        1
+      ],
+      "products": [
+        {
+          "product_id": 19,
+          "quantity": 1
+        },
+        {
+          "product_id": 30,
+          "quantity": 1
+        },
+        {
+          "product_id": 35,
+          "quantity": 2
+        },
+        {
+          "product_id": 28,
+          "quantity": 1
+        },
+        {
+          "product_id": 20,
+          "quantity": 1
+        },
+        {
+          "product_id": 5,
+          "quantity": 3
+        }
+      ],
+      "estimated_cost": 829240000
+    },
+    {
+      "package_id": 1,
+      "timeline": {
+        "from": "5/5/2017",
+        "to": "10/12/2017"
+      },
+      "joined_contractors": [
+        3,
+        2
+      ],
+      "products": [
+        {
+          "product_id": 38,
+          "quantity": 1
+        },
+        {
+          "product_id": 7,
+          "quantity": 1
+        },
+        {
+          "product_id": 17,
+          "quantity": 2
+        },
+        {
+          "product_id": 8,
+          "quantity": 115
+        },
+        {
+          "product_id": 29,
+          "quantity": 1
+        },
+        {
+          "product_id": 12,
+          "quantity": 1
+        },
+        {
+          "product_id": 16,
+          "quantity": 2
+        }
+      ],
+      "estimated_cost": 1619055000
+    },
+    {
+      "package_id": 2,
+      "timeline": {
+        "from": "23/9/2017",
+        "to": "16/11/2017"
+      },
+      "joined_contractors": [
+        1,
+        3,
+        0
+      ],
+      "products": [
+        {
+          "product_id": 9,
+          "quantity": 3
+        },
+        {
+          "product_id": 32,
+          "quantity": 1
+        },
+        {
+          "product_id": 31,
+          "quantity": 1
+        },
+        {
+          "product_id": 22,
+          "quantity": 1
+        },
+        {
+          "product_id": 12,
+          "quantity": 1
+        },
+        {
+          "product_id": 33,
+          "quantity": 1
+        },
+        {
+          "product_id": 4,
+          "quantity": 362
+        },
+        {
+          "product_id": 37,
+          "quantity": 1
+        },
+        {
+          "product_id": 36,
+          "quantity": 1
+        },
+        {
+          "product_id": 27,
+          "quantity": 1
+        }
+      ],
+      "estimated_cost": 3115348000
+    }
+  ],
+  "product": [
+    {
+      "product_id": 0,
+      "description": "Máy trạm (PC)",
+      "unit": "Bộ"
+    },
+    {
+      "product_id": 1,
+      "description": "Máy tính xách tay",
+      "unit": "Chiếc"
+    },
+    {
+      "product_id": 2,
+      "description": "Máy in ",
+      "unit": "Chiếc"
+    },
+    {
+      "product_id": 3,
+      "description": "Máy in màu",
+      "unit": "Chiếc"
+    },
+    {
+      "product_id": 4,
+      "description": "Máy Scanner",
+      "unit": "Chiếc"
+    },
+    {
+      "product_id": 5,
+      "description": "Lưu điện máy chủ",
+      "unit": "Chiếc"
+    },
+    {
+      "product_id": 6,
+      "description": "Máy chiếu",
+      "unit": "Chiếc"
+    },
+    {
+      "product_id": 7,
+      "description": "Chống sét",
+      "unit": "Điểm"
+    },
+    {
+      "product_id": 8,
+      "description": "Modem ADSL",
+      "unit": "Chiếc"
+    },
+    {
+      "product_id": 9,
+      "description": "Router",
+      "unit": "Bộ"
+    },
+    {
+      "product_id": 10,
+      "description": "Switch",
+      "unit": "Bộ"
+    },
+    {
+      "product_id": 11,
+      "description": "Thiết bị định tuyến Cisco Router ISR4331-AX/K9 (hoặc tương đương)",
+      "unit": "Bộ"
+    },
+    {
+      "product_id": 12,
+      "description": "Chuyển mạch Switch Switch Cisco Catalyst WS-C2960X-24TS-L (hoặc tương đương)",
+      "unit": "Bộ"
+    },
+    {
+      "product_id": 13,
+      "description": "Máy chủ (Ảo hóa thành các máy chủ ứng dụng CSDL) Dell PowerEdge R730 (hoặc tương đương)",
+      "unit": "Bộ"
+    },
+    {
+      "product_id": 14,
+      "description": "Máy chủ ATK Dell PowerEdge R630 (hoặc tương đương)",
+      "unit": "Bộ"
+    },
+    {
+      "product_id": 15,
+      "description": "Máy chủ Virus + Kiểm soát kết nối internet Dell PowerEdge R630 (hoặc tương đương)",
+      "unit": "Bộ"
+    },
+    {
+      "product_id": 16,
+      "description": "Tủ đĩa lưu trữ SAN Dell PowerVault MD3820f,  16G Fibre Channel, 2U-24 drive (hoặc tương đương)",
+      "unit": "Bộ"
+    },
+    {
+      "product_id": 17,
+      "description": "SAN Switch Brocade 300 Ports-On-Demand 8Gb FC Switch (8 x 8G SFP + 16 Empty Ports) (hoặc tương đương)",
+      "unit": "Bộ"
+    },
+    {
+      "product_id": 18,
+      "description": "Tủ Rack Viet Rack 42U 19' (hoặc tương đương)",
+      "unit": "Bộ"
+    },
+    {
+      "product_id": 19,
+      "description": "Hệ thống UPS Eaton 9PX11KiRT 11kVa/10kW (hoặc tương đương)",
+      "unit": "Bộ"
+    },
+    {
+      "product_id": 20,
+      "description": "Hệ thống chống sét Emerson + APC (hoặc tương đương)",
+      "unit": "Hệ thống"
+    },
+    {
+      "product_id": 21,
+      "description": "Hệ thống báo cháy chay",
+      "unit": "Hệ thống"
+    },
+    {
+      "product_id": 22,
+      "description": "Hệ thống sàn nâng kỹ thuật Sàn nâng HPL Huatong cách tĩnh điện, chống cháy (hoặc tương đương)",
+      "unit": "m2"
+    },
+    {
+      "product_id": 23,
+      "description": "Hệ thống camera quan sát Avtech (hoặc tương đương)",
+      "unit": "Hệ thống"
+    },
+    {
+      "product_id": 24,
+      "description": "Hệ thống giám sát APC - ISX management and EMS system (hoặc tương đương)",
+      "unit": "Hệ thống"
+    },
+    {
+      "product_id": 25,
+      "description": "Hệ thống chiếu sáng, ổ cắm Sino (hoặc tương đương)",
+      "unit": "Hệ thống"
+    },
+    {
+      "product_id": 26,
+      "description": "Thi công hệ thống + cáp kết nối AMP (hoặc tương đương)",
+      "unit": "Hệ thống"
+    },
+    {
+      "product_id": 27,
+      "description": "HĐH cho máy chủ Microsoft (hoặc tương đương)",
+      "unit": "Bộ"
+    },
+    {
+      "product_id": 28,
+      "description": "Phần mềm backup Symatec Backup Exec 2014 (hoặc tương đương)",
+      "unit": "bộ"
+    },
+    {
+      "product_id": 29,
+      "description": "Phần mềm Antivirus cho máy chủ Kaspersky Anti-Virus for Windows File Server EE (hoặc tương đương)",
+      "unit": "Bộ"
+    },
+    {
+      "product_id": 30,
+      "description": "Thiết bị đầu cuối mã hóa video chuẩn Full HD 1080 Poycom Group 500",
+      "unit": "Bộ"
+    },
+    {
+      "product_id": 31,
+      "description": "Hệ thống camera tự động bắt người phát biểu EagleEye Director",
+      "unit": "Chiếc"
+    },
+    {
+      "product_id": 32,
+      "description": "Thiết bị bút vẽ điện tử Polycom UC Board",
+      "unit": "Bộ"
+    },
+    {
+      "product_id": 33,
+      "description": "Thiết bị ghi hình Polycom Media Suite Appliance Edition (2U Server)",
+      "unit": "Bộ"
+    },
+    {
+      "product_id": 34,
+      "description": "Micro đa hướng đặt bàn Polycom Microphone Array",
+      "unit": "Chiếc"
+    },
+    {
+      "product_id": 35,
+      "description": "Màn hình lớn hiển thị chuyên nghiệp 65' Sam Sung UA65JU6600",
+      "unit": "Chiếc"
+    },
+    {
+      "product_id": 36,
+      "description": "Màn hình lớn hiển thị 48' cho chủ tọa Sam Sung UA48J5100",
+      "unit": "Chiếc"
+    },
+    {
+      "product_id": 37,
+      "description": "Màn hình hiển thị dữ liệu trình chiếu kết hợp với bút điện tử 24' Sam Sung UA24J4100",
+      "unit": "Chiếc"
+    },
+    {
+      "product_id": 38,
+      "description": "Thiết bị phân phối tín hiệu hình ảnh ra các màn hình VM-8H của Kramer",
+      "unit": "Bộ"
+    },
+    {
+      "product_id": 39,
+      "description": "Bộ khuếch đại âm thanh 120W PLE-1MA120-EU của Bosch",
+      "unit": "Bộ"
+    },
+    {
+      "product_id": 40,
+      "description": "Loa cột treo tường 12W LB1-UW12-L/D của Bosch",
+      "unit": "Chiếc"
+    },
+    {
+      "product_id": 41,
+      "description": "Vật tư, phụ kiện ( dự kiến )",
+      "unit": "Gói"
+    },
+    {
+      "product_id": 42,
+      "description": "Đào tạo hướng dẫn sử dụng, vận chuyển và Nhân công, lắp đặt",
+      "unit": "Gói"
+    }
+  ],
+  "contractors": [
+    {
+      "contractor_id": 0,
+      "description": "Công Ty Cổ Phần Tin Học Hồng Phúc",
+      "quality": 0.83,
+      "relationship": 0.45,
+      "products": [
+        {
+          "product_id": 0,
+          "sell_price": 14251000,
+          "buy_price": 11757000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "20/5/2017",
+              "rate": 0.17
+            },
+            {
+              "from": "20/5/2017",
+              "to": "29/9/2017",
+              "rate": 0.16
+            },
+            {
+              "from": "29/9/2017",
+              "to": "14/10/2017",
+              "rate": 0.06
+            },
+            {
+              "from": "14/10/2017",
+              "to": "12/11/2017",
+              "rate": 0.17
+            },
+            {
+              "from": "12/11/2017",
+              "to": "2/1/2018",
+              "rate": 0.01
+            }
+          ]
+        },
+        {
+          "product_id": 1,
+          "sell_price": 22399000,
+          "buy_price": 17973000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "15/3/2017",
+              "rate": 0.05
+            },
+            {
+              "from": "15/3/2017",
+              "to": "28/4/2017",
+              "rate": 0.11
+            },
+            {
+              "from": "28/4/2017",
+              "to": "5/5/2017",
+              "rate": 0.11
+            },
+            {
+              "from": "5/5/2017",
+              "to": "14/9/2017",
+              "rate": 0.04
+            },
+            {
+              "from": "14/9/2017",
+              "to": "19/12/2017",
+              "rate": 0.1
+            },
+            {
+              "from": "19/12/2017",
+              "to": "2/1/2018",
+              "rate": 0.15
+            }
+          ]
+        },
+        {
+          "product_id": 2,
+          "sell_price": 5952000,
+          "buy_price": 2861000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "21/2/2017",
+              "rate": 0.29
+            },
+            {
+              "from": "21/2/2017",
+              "to": "2/1/2018",
+              "rate": 0.29
+            }
+          ]
+        },
+        {
+          "product_id": 3,
+          "sell_price": 17866000,
+          "buy_price": 12785000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "8/1/2017",
+              "rate": 0.18
+            },
+            {
+              "from": "8/1/2017",
+              "to": "15/3/2017",
+              "rate": 0.15
+            },
+            {
+              "from": "15/3/2017",
+              "to": "18/6/2017",
+              "rate": 0.08
+            },
+            {
+              "from": "18/6/2017",
+              "to": "4/12/2017",
+              "rate": 0.18
+            },
+            {
+              "from": "4/12/2017",
+              "to": "2/1/2018",
+              "rate": 0.06
+            }
+          ]
+        },
+        {
+          "product_id": 4,
+          "sell_price": 4555000,
+          "buy_price": 3400000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "11/6/2017",
+              "rate": 0.17
+            },
+            {
+              "from": "11/6/2017",
+              "to": "2/1/2018",
+              "rate": 0.16
+            }
+          ]
+        },
+        {
+          "product_id": 5,
+          "sell_price": 19967000,
+          "buy_price": 16933000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "22/3/2017",
+              "rate": 0.07
+            },
+            {
+              "from": "22/3/2017",
+              "to": "1/8/2017",
+              "rate": 0.13
+            },
+            {
+              "from": "1/8/2017",
+              "to": "22/9/2017",
+              "rate": 0.08
+            },
+            {
+              "from": "22/9/2017",
+              "to": "2/1/2018",
+              "rate": 0.01
+            }
+          ]
+        },
+        {
+          "product_id": 6,
+          "sell_price": 30050000,
+          "buy_price": 18711000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "28/10/2017",
+              "rate": 0.33
+            },
+            {
+              "from": "28/10/2017",
+              "to": "26/12/2017",
+              "rate": 0.26
+            },
+            {
+              "from": "26/12/2017",
+              "to": "2/1/2018",
+              "rate": 0.03
+            }
+          ]
+        },
+        {
+          "product_id": 7,
+          "sell_price": 28882000,
+          "buy_price": 28837000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "26/6/2017",
+              "rate": 0
+            },
+            {
+              "from": "26/6/2017",
+              "to": "12/11/2017",
+              "rate": 0
+            },
+            {
+              "from": "12/11/2017",
+              "to": "2/1/2018",
+              "rate": 0
+            }
+          ]
+        },
+        {
+          "product_id": 8,
+          "sell_price": 3096000,
+          "buy_price": 2524000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "4/6/2017",
+              "rate": 0.17
+            },
+            {
+              "from": "4/6/2017",
+              "to": "5/11/2017",
+              "rate": 0.15
+            },
+            {
+              "from": "5/11/2017",
+              "to": "2/1/2018",
+              "rate": 0.06
+            }
+          ]
+        },
+        {
+          "product_id": 9,
+          "sell_price": 22067000,
+          "buy_price": 11938000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "31/8/2017",
+              "rate": 0.3
+            },
+            {
+              "from": "31/8/2017",
+              "to": "7/9/2017",
+              "rate": 0.01
+            },
+            {
+              "from": "7/9/2017",
+              "to": "2/1/2018",
+              "rate": 0.42
+            }
+          ]
+        },
+        {
+          "product_id": 10,
+          "sell_price": 4796000,
+          "buy_price": 2956000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "8/1/2017",
+              "rate": 0.25
+            },
+            {
+              "from": "8/1/2017",
+              "to": "1/8/2017",
+              "rate": 0.03
+            },
+            {
+              "from": "1/8/2017",
+              "to": "22/9/2017",
+              "rate": 0.31
+            },
+            {
+              "from": "22/9/2017",
+              "to": "5/11/2017",
+              "rate": 0.19
+            },
+            {
+              "from": "5/11/2017",
+              "to": "19/12/2017",
+              "rate": 0.22
+            },
+            {
+              "from": "19/12/2017",
+              "to": "2/1/2018",
+              "rate": 0.03
+            }
+          ]
+        },
+        {
+          "product_id": 11,
+          "sell_price": 248451000,
+          "buy_price": 229810000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "14/2/2017",
+              "rate": 0.02
+            },
+            {
+              "from": "14/2/2017",
+              "to": "2/1/2018",
+              "rate": 0.02
+            }
+          ]
+        },
+        {
+          "product_id": 12,
+          "sell_price": 42809000,
+          "buy_price": 34680000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "23/8/2017",
+              "rate": 0.13
+            },
+            {
+              "from": "23/8/2017",
+              "to": "2/1/2018",
+              "rate": 0.12
+            }
+          ]
+        },
+        {
+          "product_id": 13,
+          "sell_price": 625442000,
+          "buy_price": 487592000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "5/5/2017",
+              "rate": 0.18
+            },
+            {
+              "from": "5/5/2017",
+              "to": "22/9/2017",
+              "rate": 0.08
+            },
+            {
+              "from": "22/9/2017",
+              "to": "19/11/2017",
+              "rate": 0.02
+            },
+            {
+              "from": "19/11/2017",
+              "to": "11/12/2017",
+              "rate": 0.17
+            },
+            {
+              "from": "11/12/2017",
+              "to": "2/1/2018",
+              "rate": 0.07
+            }
+          ]
+        },
+        {
+          "product_id": 14,
+          "sell_price": 510909000,
+          "buy_price": 502592000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "27/5/2017",
+              "rate": 0.01
+            },
+            {
+              "from": "27/5/2017",
+              "to": "23/8/2017",
+              "rate": 0
+            },
+            {
+              "from": "23/8/2017",
+              "to": "31/8/2017",
+              "rate": 0.01
+            },
+            {
+              "from": "31/8/2017",
+              "to": "2/1/2018",
+              "rate": 0.01
+            }
+          ]
+        },
+        {
+          "product_id": 15,
+          "sell_price": 204998000,
+          "buy_price": 182751000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "20/5/2017",
+              "rate": 0.06
+            },
+            {
+              "from": "20/5/2017",
+              "to": "31/8/2017",
+              "rate": 0.05
+            },
+            {
+              "from": "31/8/2017",
+              "to": "29/9/2017",
+              "rate": 0.09
+            },
+            {
+              "from": "29/9/2017",
+              "to": "6/10/2017",
+              "rate": 0.01
+            },
+            {
+              "from": "6/10/2017",
+              "to": "2/1/2018",
+              "rate": 0.03
+            }
+          ]
+        },
+        {
+          "product_id": 16,
+          "sell_price": 624924000,
+          "buy_price": 586301000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "15/1/2017",
+              "rate": 0.04
+            },
+            {
+              "from": "15/1/2017",
+              "to": "23/1/2017",
+              "rate": 0.04
+            },
+            {
+              "from": "23/1/2017",
+              "to": "6/10/2017",
+              "rate": 0.03
+            },
+            {
+              "from": "6/10/2017",
+              "to": "28/10/2017",
+              "rate": 0.06
+            },
+            {
+              "from": "28/10/2017",
+              "to": "2/1/2018",
+              "rate": 0.04
+            }
+          ]
+        },
+        {
+          "product_id": 17,
+          "sell_price": 140040000,
+          "buy_price": 132336000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "21/2/2017",
+              "rate": 0.03
+            },
+            {
+              "from": "21/2/2017",
+              "to": "27/11/2017",
+              "rate": 0.02
+            },
+            {
+              "from": "27/11/2017",
+              "to": "2/1/2018",
+              "rate": 0.05
+            }
+          ]
+        },
+        {
+          "product_id": 18,
+          "sell_price": 127659000,
+          "buy_price": 98032000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "22/3/2017",
+              "rate": 0.14
+            },
+            {
+              "from": "22/3/2017",
+              "to": "18/6/2017",
+              "rate": 0.14
+            },
+            {
+              "from": "18/6/2017",
+              "to": "19/11/2017",
+              "rate": 0.23
+            },
+            {
+              "from": "19/11/2017",
+              "to": "2/1/2018",
+              "rate": 0.12
+            }
+          ]
+        },
+        {
+          "product_id": 19,
+          "sell_price": 174340000,
+          "buy_price": 127733000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "28/2/2017",
+              "rate": 0.03
+            },
+            {
+              "from": "28/2/2017",
+              "to": "22/9/2017",
+              "rate": 0.01
+            },
+            {
+              "from": "22/9/2017",
+              "to": "2/1/2018",
+              "rate": 0.24
+            }
+          ]
+        },
+        {
+          "product_id": 20,
+          "sell_price": 129743000,
+          "buy_price": 81997000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "6/2/2017",
+              "rate": 0.27
+            },
+            {
+              "from": "6/2/2017",
+              "to": "21/4/2017",
+              "rate": 0.08
+            },
+            {
+              "from": "21/4/2017",
+              "to": "18/6/2017",
+              "rate": 0.07
+            },
+            {
+              "from": "18/6/2017",
+              "to": "16/8/2017",
+              "rate": 0.12
+            },
+            {
+              "from": "16/8/2017",
+              "to": "2/1/2018",
+              "rate": 0.14
+            }
+          ]
+        },
+        {
+          "product_id": 21,
+          "sell_price": 109923000,
+          "buy_price": 109327000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "5/5/2017",
+              "rate": 0
+            },
+            {
+              "from": "5/5/2017",
+              "to": "5/11/2017",
+              "rate": 0
+            },
+            {
+              "from": "5/11/2017",
+              "to": "2/1/2018",
+              "rate": 0
+            }
+          ]
+        },
+        {
+          "product_id": 22,
+          "sell_price": 3287000,
+          "buy_price": 2831000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "27/5/2017",
+              "rate": 0.06
+            },
+            {
+              "from": "27/5/2017",
+              "to": "6/10/2017",
+              "rate": 0.06
+            },
+            {
+              "from": "6/10/2017",
+              "to": "2/1/2018",
+              "rate": 0.13
+            }
+          ]
+        },
+        {
+          "product_id": 23,
+          "sell_price": 28198000,
+          "buy_price": 26215000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "14/2/2017",
+              "rate": 0
+            },
+            {
+              "from": "14/2/2017",
+              "to": "26/6/2017",
+              "rate": 0.01
+            },
+            {
+              "from": "26/6/2017",
+              "to": "25/7/2017",
+              "rate": 0.07
+            },
+            {
+              "from": "25/7/2017",
+              "to": "2/1/2018",
+              "rate": 0.03
+            }
+          ]
+        },
+        {
+          "product_id": 24,
+          "sell_price": 67530000,
+          "buy_price": 65508000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "31/8/2017",
+              "rate": 0.01
+            },
+            {
+              "from": "31/8/2017",
+              "to": "2/1/2018",
+              "rate": 0.01
+            }
+          ]
+        },
+        {
+          "product_id": 25,
+          "sell_price": 15974000,
+          "buy_price": 15563000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "1/8/2017",
+              "rate": 0
+            },
+            {
+              "from": "1/8/2017",
+              "to": "7/9/2017",
+              "rate": 0.01
+            },
+            {
+              "from": "7/9/2017",
+              "to": "12/11/2017",
+              "rate": 0
+            },
+            {
+              "from": "12/11/2017",
+              "to": "19/11/2017",
+              "rate": 0.01
+            },
+            {
+              "from": "19/11/2017",
+              "to": "2/1/2018",
+              "rate": 0.02
+            }
+          ]
+        },
+        {
+          "product_id": 26,
+          "sell_price": 123168000,
+          "buy_price": 79428000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "1/8/2017",
+              "rate": 0.07
+            },
+            {
+              "from": "1/8/2017",
+              "to": "22/9/2017",
+              "rate": 0.22
+            },
+            {
+              "from": "22/9/2017",
+              "to": "6/10/2017",
+              "rate": 0.16
+            },
+            {
+              "from": "6/10/2017",
+              "to": "2/1/2018",
+              "rate": 0.13
+            }
+          ]
+        },
+        {
+          "product_id": 27,
+          "sell_price": 795700000,
+          "buy_price": 525304000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "21/4/2017",
+              "rate": 0.17
+            },
+            {
+              "from": "21/4/2017",
+              "to": "4/6/2017",
+              "rate": 0.05
+            },
+            {
+              "from": "4/6/2017",
+              "to": "3/7/2017",
+              "rate": 0.31
+            },
+            {
+              "from": "3/7/2017",
+              "to": "11/12/2017",
+              "rate": 0.26
+            },
+            {
+              "from": "11/12/2017",
+              "to": "2/1/2018",
+              "rate": 0.15
+            }
+          ]
+        },
+        {
+          "product_id": 28,
+          "sell_price": 148780000,
+          "buy_price": 116741000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "14/10/2017",
+              "rate": 0.07
+            },
+            {
+              "from": "14/10/2017",
+              "to": "2/1/2018",
+              "rate": 0.03
+            }
+          ]
+        },
+        {
+          "product_id": 29,
+          "sell_price": 8333000,
+          "buy_price": 5268000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "15/1/2017",
+              "rate": 0.24
+            },
+            {
+              "from": "15/1/2017",
+              "to": "31/8/2017",
+              "rate": 0.33
+            },
+            {
+              "from": "31/8/2017",
+              "to": "21/10/2017",
+              "rate": 0.2
+            },
+            {
+              "from": "21/10/2017",
+              "to": "2/1/2018",
+              "rate": 0.16
+            }
+          ]
+        },
+        {
+          "product_id": 30,
+          "sell_price": 299187000,
+          "buy_price": 159729000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "18/6/2017",
+              "rate": 0.17
+            },
+            {
+              "from": "18/6/2017",
+              "to": "1/8/2017",
+              "rate": 0.14
+            },
+            {
+              "from": "1/8/2017",
+              "to": "31/8/2017",
+              "rate": 0.3
+            },
+            {
+              "from": "31/8/2017",
+              "to": "2/1/2018",
+              "rate": 0.17
+            }
+          ]
+        },
+        {
+          "product_id": 31,
+          "sell_price": 302317000,
+          "buy_price": 220082000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "23/1/2017",
+              "rate": 0.06
+            },
+            {
+              "from": "23/1/2017",
+              "to": "15/3/2017",
+              "rate": 0
+            },
+            {
+              "from": "15/3/2017",
+              "to": "29/9/2017",
+              "rate": 0.02
+            },
+            {
+              "from": "29/9/2017",
+              "to": "2/1/2018",
+              "rate": 0.23
+            }
+          ]
+        },
+        {
+          "product_id": 32,
+          "sell_price": 36477000,
+          "buy_price": 30358000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "3/7/2017",
+              "rate": 0.04
+            },
+            {
+              "from": "3/7/2017",
+              "to": "22/9/2017",
+              "rate": 0.1
+            },
+            {
+              "from": "22/9/2017",
+              "to": "27/11/2017",
+              "rate": 0.08
+            },
+            {
+              "from": "27/11/2017",
+              "to": "2/1/2018",
+              "rate": 0.08
+            }
+          ]
+        },
+        {
+          "product_id": 33,
+          "sell_price": 937160000,
+          "buy_price": 782685000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "28/2/2017",
+              "rate": 0.05
+            },
+            {
+              "from": "28/2/2017",
+              "to": "13/4/2017",
+              "rate": 0.08
+            },
+            {
+              "from": "13/4/2017",
+              "to": "28/4/2017",
+              "rate": 0.09
+            },
+            {
+              "from": "28/4/2017",
+              "to": "18/7/2017",
+              "rate": 0.16
+            },
+            {
+              "from": "18/7/2017",
+              "to": "7/9/2017",
+              "rate": 0.04
+            },
+            {
+              "from": "7/9/2017",
+              "to": "2/1/2018",
+              "rate": 0.02
+            }
+          ]
+        },
+        {
+          "product_id": 34,
+          "sell_price": 21045000,
+          "buy_price": 19204000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "23/1/2017",
+              "rate": 0.03
+            },
+            {
+              "from": "23/1/2017",
+              "to": "21/2/2017",
+              "rate": 0.08
+            },
+            {
+              "from": "21/2/2017",
+              "to": "28/2/2017",
+              "rate": 0.06
+            },
+            {
+              "from": "28/2/2017",
+              "to": "13/5/2017",
+              "rate": 0.07
+            },
+            {
+              "from": "13/5/2017",
+              "to": "29/9/2017",
+              "rate": 0.05
+            },
+            {
+              "from": "29/9/2017",
+              "to": "2/1/2018",
+              "rate": 0.07
+            }
+          ]
+        },
+        {
+          "product_id": 35,
+          "sell_price": 67112000,
+          "buy_price": 43347000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "11/6/2017",
+              "rate": 0.3
+            },
+            {
+              "from": "11/6/2017",
+              "to": "7/9/2017",
+              "rate": 0.34
+            },
+            {
+              "from": "7/9/2017",
+              "to": "29/9/2017",
+              "rate": 0.2
+            },
+            {
+              "from": "29/9/2017",
+              "to": "19/12/2017",
+              "rate": 0.25
+            },
+            {
+              "from": "19/12/2017",
+              "to": "2/1/2018",
+              "rate": 0.22
+            }
+          ]
+        },
+        {
+          "product_id": 36,
+          "sell_price": 21022000,
+          "buy_price": 12541000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "30/1/2017",
+              "rate": 0.23
+            },
+            {
+              "from": "30/1/2017",
+              "to": "2/1/2018",
+              "rate": 0.06
+            }
+          ]
+        },
+        {
+          "product_id": 37,
+          "sell_price": 3337000,
+          "buy_price": 3271000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "13/4/2017",
+              "rate": 0.01
+            },
+            {
+              "from": "13/4/2017",
+              "to": "26/12/2017",
+              "rate": 0.01
+            },
+            {
+              "from": "26/12/2017",
+              "to": "2/1/2018",
+              "rate": 0.01
+            }
+          ]
+        },
+        {
+          "product_id": 38,
+          "sell_price": 40217000,
+          "buy_price": 25305000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "5/11/2017",
+              "rate": 0.37
+            },
+            {
+              "from": "5/11/2017",
+              "to": "2/1/2018",
+              "rate": 0.25
+            }
+          ]
+        },
+        {
+          "product_id": 39,
+          "sell_price": 10301000,
+          "buy_price": 9886000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "23/1/2017",
+              "rate": 0.03
+            },
+            {
+              "from": "23/1/2017",
+              "to": "30/1/2017",
+              "rate": 0.04
+            },
+            {
+              "from": "30/1/2017",
+              "to": "14/2/2017",
+              "rate": 0.04
+            },
+            {
+              "from": "14/2/2017",
+              "to": "22/3/2017",
+              "rate": 0.04
+            },
+            {
+              "from": "22/3/2017",
+              "to": "2/1/2018",
+              "rate": 0.01
+            }
+          ]
+        },
+        {
+          "product_id": 40,
+          "sell_price": 2326000,
+          "buy_price": 1209000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "23/1/2017",
+              "rate": 0.33
+            },
+            {
+              "from": "23/1/2017",
+              "to": "7/9/2017",
+              "rate": 0.41
+            },
+            {
+              "from": "7/9/2017",
+              "to": "14/10/2017",
+              "rate": 0.45
+            },
+            {
+              "from": "14/10/2017",
+              "to": "19/12/2017",
+              "rate": 0.23
+            },
+            {
+              "from": "19/12/2017",
+              "to": "2/1/2018",
+              "rate": 0.06
+            }
+          ]
+        },
+        {
+          "product_id": 41,
+          "sell_price": 28320000,
+          "buy_price": 18527000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "21/2/2017",
+              "rate": 0.27
+            },
+            {
+              "from": "21/2/2017",
+              "to": "4/6/2017",
+              "rate": 0.28
+            },
+            {
+              "from": "4/6/2017",
+              "to": "18/6/2017",
+              "rate": 0.16
+            },
+            {
+              "from": "18/6/2017",
+              "to": "21/10/2017",
+              "rate": 0.16
+            },
+            {
+              "from": "21/10/2017",
+              "to": "2/1/2018",
+              "rate": 0.17
+            }
+          ]
+        },
+        {
+          "product_id": 42,
+          "sell_price": 27186000,
+          "buy_price": 12901000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "28/4/2017",
+              "rate": 0.15
+            },
+            {
+              "from": "28/4/2017",
+              "to": "4/6/2017",
+              "rate": 0.15
+            },
+            {
+              "from": "4/6/2017",
+              "to": "16/8/2017",
+              "rate": 0.2
+            },
+            {
+              "from": "16/8/2017",
+              "to": "14/9/2017",
+              "rate": 0.18
+            },
+            {
+              "from": "14/9/2017",
+              "to": "2/1/2018",
+              "rate": 0.1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "contractor_id": 1,
+      "description": "IDC - Công Ty Cổ Phần Thương Mại IDC",
+      "quality": 0.88,
+      "relationship": 0.88,
+      "products": [
+        {
+          "product_id": 0,
+          "sell_price": 16104000,
+          "buy_price": 9668000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "14/2/2017",
+              "rate": 0.13
+            },
+            {
+              "from": "14/2/2017",
+              "to": "21/4/2017",
+              "rate": 0.13
+            },
+            {
+              "from": "21/4/2017",
+              "to": "5/5/2017",
+              "rate": 0.18
+            },
+            {
+              "from": "5/5/2017",
+              "to": "31/8/2017",
+              "rate": 0.15
+            },
+            {
+              "from": "31/8/2017",
+              "to": "22/9/2017",
+              "rate": 0.39
+            },
+            {
+              "from": "22/9/2017",
+              "to": "2/1/2018",
+              "rate": 0.39
+            }
+          ]
+        },
+        {
+          "product_id": 1,
+          "sell_price": 24590000,
+          "buy_price": 20297000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "28/4/2017",
+              "rate": 0.13
+            },
+            {
+              "from": "28/4/2017",
+              "to": "11/12/2017",
+              "rate": 0.04
+            },
+            {
+              "from": "11/12/2017",
+              "to": "2/1/2018",
+              "rate": 0.01
+            }
+          ]
+        },
+        {
+          "product_id": 2,
+          "sell_price": 3433000,
+          "buy_price": 2768000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "13/4/2017",
+              "rate": 0.1
+            },
+            {
+              "from": "13/4/2017",
+              "to": "5/5/2017",
+              "rate": 0.14
+            },
+            {
+              "from": "5/5/2017",
+              "to": "19/11/2017",
+              "rate": 0.19
+            },
+            {
+              "from": "19/11/2017",
+              "to": "2/1/2018",
+              "rate": 0.15
+            }
+          ]
+        },
+        {
+          "product_id": 3,
+          "sell_price": 14037000,
+          "buy_price": 12058000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "8/3/2017",
+              "rate": 0.12
+            },
+            {
+              "from": "8/3/2017",
+              "to": "14/9/2017",
+              "rate": 0.11
+            },
+            {
+              "from": "14/9/2017",
+              "to": "6/10/2017",
+              "rate": 0.04
+            },
+            {
+              "from": "6/10/2017",
+              "to": "11/12/2017",
+              "rate": 0.12
+            },
+            {
+              "from": "11/12/2017",
+              "to": "2/1/2018",
+              "rate": 0.07
+            }
+          ]
+        },
+        {
+          "product_id": 4,
+          "sell_price": 3121000,
+          "buy_price": 2997000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "14/2/2017",
+              "rate": 0
+            },
+            {
+              "from": "14/2/2017",
+              "to": "2/1/2018",
+              "rate": 0.02
+            }
+          ]
+        },
+        {
+          "product_id": 5,
+          "sell_price": 12400000,
+          "buy_price": 10030000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "23/1/2017",
+              "rate": 0.13
+            },
+            {
+              "from": "23/1/2017",
+              "to": "30/3/2017",
+              "rate": 0.04
+            },
+            {
+              "from": "30/3/2017",
+              "to": "21/10/2017",
+              "rate": 0.17
+            },
+            {
+              "from": "21/10/2017",
+              "to": "4/12/2017",
+              "rate": 0.15
+            },
+            {
+              "from": "4/12/2017",
+              "to": "2/1/2018",
+              "rate": 0.16
+            }
+          ]
+        },
+        {
+          "product_id": 6,
+          "sell_price": 29570000,
+          "buy_price": 22634000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "13/4/2017",
+              "rate": 0.22
+            },
+            {
+              "from": "13/4/2017",
+              "to": "3/7/2017",
+              "rate": 0.11
+            },
+            {
+              "from": "3/7/2017",
+              "to": "11/12/2017",
+              "rate": 0.23
+            },
+            {
+              "from": "11/12/2017",
+              "to": "2/1/2018",
+              "rate": 0.19
+            }
+          ]
+        },
+        {
+          "product_id": 7,
+          "sell_price": 32999000,
+          "buy_price": 19751000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "22/3/2017",
+              "rate": 0.28
+            },
+            {
+              "from": "22/3/2017",
+              "to": "13/4/2017",
+              "rate": 0.28
+            },
+            {
+              "from": "13/4/2017",
+              "to": "9/8/2017",
+              "rate": 0.16
+            },
+            {
+              "from": "9/8/2017",
+              "to": "2/1/2018",
+              "rate": 0.34
+            }
+          ]
+        },
+        {
+          "product_id": 8,
+          "sell_price": 2594000,
+          "buy_price": 1500000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "23/8/2017",
+              "rate": 0.32
+            },
+            {
+              "from": "23/8/2017",
+              "to": "2/1/2018",
+              "rate": 0.22
+            }
+          ]
+        },
+        {
+          "product_id": 9,
+          "sell_price": 22881000,
+          "buy_price": 18821000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "27/5/2017",
+              "rate": 0.01
+            },
+            {
+              "from": "27/5/2017",
+              "to": "19/11/2017",
+              "rate": 0.15
+            },
+            {
+              "from": "19/11/2017",
+              "to": "2/1/2018",
+              "rate": 0.15
+            }
+          ]
+        },
+        {
+          "product_id": 10,
+          "sell_price": 6059000,
+          "buy_price": 5646000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "30/3/2017",
+              "rate": 0.02
+            },
+            {
+              "from": "30/3/2017",
+              "to": "22/9/2017",
+              "rate": 0.06
+            },
+            {
+              "from": "22/9/2017",
+              "to": "28/10/2017",
+              "rate": 0.05
+            },
+            {
+              "from": "28/10/2017",
+              "to": "26/12/2017",
+              "rate": 0.05
+            },
+            {
+              "from": "26/12/2017",
+              "to": "2/1/2018",
+              "rate": 0.04
+            }
+          ]
+        },
+        {
+          "product_id": 11,
+          "sell_price": 190546000,
+          "buy_price": 184103000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "5/5/2017",
+              "rate": 0.01
+            },
+            {
+              "from": "5/5/2017",
+              "to": "14/10/2017",
+              "rate": 0.03
+            },
+            {
+              "from": "14/10/2017",
+              "to": "2/1/2018",
+              "rate": 0.01
+            }
+          ]
+        },
+        {
+          "product_id": 12,
+          "sell_price": 57617000,
+          "buy_price": 28209000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "22/3/2017",
+              "rate": 0.39
+            },
+            {
+              "from": "22/3/2017",
+              "to": "27/5/2017",
+              "rate": 0.16
+            },
+            {
+              "from": "27/5/2017",
+              "to": "1/8/2017",
+              "rate": 0.34
+            },
+            {
+              "from": "1/8/2017",
+              "to": "23/8/2017",
+              "rate": 0.06
+            },
+            {
+              "from": "23/8/2017",
+              "to": "2/1/2018",
+              "rate": 0.03
+            }
+          ]
+        },
+        {
+          "product_id": 13,
+          "sell_price": 795265000,
+          "buy_price": 355668000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "6/4/2017",
+              "rate": 0.46
+            },
+            {
+              "from": "6/4/2017",
+              "to": "28/4/2017",
+              "rate": 0.37
+            },
+            {
+              "from": "28/4/2017",
+              "to": "22/9/2017",
+              "rate": 0.44
+            },
+            {
+              "from": "22/9/2017",
+              "to": "2/1/2018",
+              "rate": 0.16
+            }
+          ]
+        },
+        {
+          "product_id": 14,
+          "sell_price": 445297000,
+          "buy_price": 229183000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "23/1/2017",
+              "rate": 0.42
+            },
+            {
+              "from": "23/1/2017",
+              "to": "21/2/2017",
+              "rate": 0.17
+            },
+            {
+              "from": "21/2/2017",
+              "to": "20/5/2017",
+              "rate": 0.01
+            },
+            {
+              "from": "20/5/2017",
+              "to": "11/12/2017",
+              "rate": 0.29
+            },
+            {
+              "from": "11/12/2017",
+              "to": "19/12/2017",
+              "rate": 0.24
+            },
+            {
+              "from": "19/12/2017",
+              "to": "2/1/2018",
+              "rate": 0.11
+            }
+          ]
+        },
+        {
+          "product_id": 15,
+          "sell_price": 174722000,
+          "buy_price": 127492000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "30/3/2017",
+              "rate": 0.1
+            },
+            {
+              "from": "30/3/2017",
+              "to": "6/4/2017",
+              "rate": 0
+            },
+            {
+              "from": "6/4/2017",
+              "to": "29/9/2017",
+              "rate": 0.22
+            },
+            {
+              "from": "29/9/2017",
+              "to": "2/1/2018",
+              "rate": 0.04
+            }
+          ]
+        },
+        {
+          "product_id": 16,
+          "sell_price": 370031000,
+          "buy_price": 307835000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "30/1/2017",
+              "rate": 0.07
+            },
+            {
+              "from": "30/1/2017",
+              "to": "18/6/2017",
+              "rate": 0.07
+            },
+            {
+              "from": "18/6/2017",
+              "to": "6/10/2017",
+              "rate": 0.02
+            },
+            {
+              "from": "6/10/2017",
+              "to": "2/1/2018",
+              "rate": 0.11
+            }
+          ]
+        },
+        {
+          "product_id": 17,
+          "sell_price": 143418000,
+          "buy_price": 74188000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "23/1/2017",
+              "rate": 0.09
+            },
+            {
+              "from": "23/1/2017",
+              "to": "13/4/2017",
+              "rate": 0.08
+            },
+            {
+              "from": "13/4/2017",
+              "to": "29/9/2017",
+              "rate": 0.16
+            },
+            {
+              "from": "29/9/2017",
+              "to": "2/1/2018",
+              "rate": 0.25
+            }
+          ]
+        },
+        {
+          "product_id": 18,
+          "sell_price": 110572000,
+          "buy_price": 59863000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "4/12/2017",
+              "rate": 0.14
+            },
+            {
+              "from": "4/12/2017",
+              "to": "26/12/2017",
+              "rate": 0.15
+            },
+            {
+              "from": "26/12/2017",
+              "to": "2/1/2018",
+              "rate": 0.22
+            }
+          ]
+        },
+        {
+          "product_id": 19,
+          "sell_price": 179871000,
+          "buy_price": 175917000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "6/2/2017",
+              "rate": 0.02
+            },
+            {
+              "from": "6/2/2017",
+              "to": "28/2/2017",
+              "rate": 0.02
+            },
+            {
+              "from": "28/2/2017",
+              "to": "27/5/2017",
+              "rate": 0
+            },
+            {
+              "from": "27/5/2017",
+              "to": "26/6/2017",
+              "rate": 0.02
+            },
+            {
+              "from": "26/6/2017",
+              "to": "2/1/2018",
+              "rate": 0.01
+            }
+          ]
+        },
+        {
+          "product_id": 20,
+          "sell_price": 136066000,
+          "buy_price": 62471000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "30/1/2017",
+              "rate": 0.26
+            },
+            {
+              "from": "30/1/2017",
+              "to": "3/7/2017",
+              "rate": 0.07
+            },
+            {
+              "from": "3/7/2017",
+              "to": "23/8/2017",
+              "rate": 0.53
+            },
+            {
+              "from": "23/8/2017",
+              "to": "5/11/2017",
+              "rate": 0.54
+            },
+            {
+              "from": "5/11/2017",
+              "to": "2/1/2018",
+              "rate": 0.44
+            }
+          ]
+        },
+        {
+          "product_id": 21,
+          "sell_price": 103019000,
+          "buy_price": 88173000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "13/4/2017",
+              "rate": 0.11
+            },
+            {
+              "from": "13/4/2017",
+              "to": "5/5/2017",
+              "rate": 0.14
+            },
+            {
+              "from": "5/5/2017",
+              "to": "18/6/2017",
+              "rate": 0.09
+            },
+            {
+              "from": "18/6/2017",
+              "to": "18/7/2017",
+              "rate": 0.05
+            },
+            {
+              "from": "18/7/2017",
+              "to": "2/1/2018",
+              "rate": 0.1
+            }
+          ]
+        },
+        {
+          "product_id": 22,
+          "sell_price": 1870000,
+          "buy_price": 1663000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "23/1/2017",
+              "rate": 0.08
+            },
+            {
+              "from": "23/1/2017",
+              "to": "13/4/2017",
+              "rate": 0.05
+            },
+            {
+              "from": "13/4/2017",
+              "to": "25/7/2017",
+              "rate": 0.08
+            },
+            {
+              "from": "25/7/2017",
+              "to": "2/1/2018",
+              "rate": 0.03
+            }
+          ]
+        },
+        {
+          "product_id": 23,
+          "sell_price": 23354000,
+          "buy_price": 17315000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "30/3/2017",
+              "rate": 0.12
+            },
+            {
+              "from": "30/3/2017",
+              "to": "2/1/2018",
+              "rate": 0.23
+            }
+          ]
+        },
+        {
+          "product_id": 24,
+          "sell_price": 89188000,
+          "buy_price": 81128000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "21/2/2017",
+              "rate": 0.01
+            },
+            {
+              "from": "21/2/2017",
+              "to": "8/3/2017",
+              "rate": 0.04
+            },
+            {
+              "from": "8/3/2017",
+              "to": "21/4/2017",
+              "rate": 0.05
+            },
+            {
+              "from": "21/4/2017",
+              "to": "16/8/2017",
+              "rate": 0.03
+            },
+            {
+              "from": "16/8/2017",
+              "to": "2/1/2018",
+              "rate": 0.02
+            }
+          ]
+        },
+        {
+          "product_id": 25,
+          "sell_price": 9914000,
+          "buy_price": 7832000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "11/6/2017",
+              "rate": 0.16
+            },
+            {
+              "from": "11/6/2017",
+              "to": "16/8/2017",
+              "rate": 0.11
+            },
+            {
+              "from": "16/8/2017",
+              "to": "2/1/2018",
+              "rate": 0.08
+            }
+          ]
+        },
+        {
+          "product_id": 26,
+          "sell_price": 119250000,
+          "buy_price": 50575000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "15/1/2017",
+              "rate": 0.04
+            },
+            {
+              "from": "15/1/2017",
+              "to": "2/1/2018",
+              "rate": 0.47
+            }
+          ]
+        },
+        {
+          "product_id": 27,
+          "sell_price": 734965000,
+          "buy_price": 557821000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "30/1/2017",
+              "rate": 0.02
+            },
+            {
+              "from": "30/1/2017",
+              "to": "8/3/2017",
+              "rate": 0.05
+            },
+            {
+              "from": "8/3/2017",
+              "to": "31/8/2017",
+              "rate": 0.03
+            },
+            {
+              "from": "31/8/2017",
+              "to": "2/1/2018",
+              "rate": 0.2
+            }
+          ]
+        },
+        {
+          "product_id": 28,
+          "sell_price": 76634000,
+          "buy_price": 69640000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "8/1/2017",
+              "rate": 0.07
+            },
+            {
+              "from": "8/1/2017",
+              "to": "19/12/2017",
+              "rate": 0.03
+            },
+            {
+              "from": "19/12/2017",
+              "to": "2/1/2018",
+              "rate": 0.04
+            }
+          ]
+        },
+        {
+          "product_id": 29,
+          "sell_price": 11697000,
+          "buy_price": 5686000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "14/2/2017",
+              "rate": 0.23
+            },
+            {
+              "from": "14/2/2017",
+              "to": "14/9/2017",
+              "rate": 0.25
+            },
+            {
+              "from": "14/9/2017",
+              "to": "2/1/2018",
+              "rate": 0.15
+            }
+          ]
+        },
+        {
+          "product_id": 30,
+          "sell_price": 307340000,
+          "buy_price": 207136000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "23/8/2017",
+              "rate": 0.01
+            },
+            {
+              "from": "23/8/2017",
+              "to": "2/1/2018",
+              "rate": 0.07
+            }
+          ]
+        },
+        {
+          "product_id": 31,
+          "sell_price": 297126000,
+          "buy_price": 177825000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "26/6/2017",
+              "rate": 0.13
+            },
+            {
+              "from": "26/6/2017",
+              "to": "23/8/2017",
+              "rate": 0.36
+            },
+            {
+              "from": "23/8/2017",
+              "to": "2/1/2018",
+              "rate": 0.14
+            }
+          ]
+        },
+        {
+          "product_id": 32,
+          "sell_price": 40942000,
+          "buy_price": 32229000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "28/2/2017",
+              "rate": 0.01
+            },
+            {
+              "from": "28/2/2017",
+              "to": "18/7/2017",
+              "rate": 0.04
+            },
+            {
+              "from": "18/7/2017",
+              "to": "2/1/2018",
+              "rate": 0.13
+            }
+          ]
+        },
+        {
+          "product_id": 33,
+          "sell_price": 931906000,
+          "buy_price": 378767000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "8/3/2017",
+              "rate": 0.53
+            },
+            {
+              "from": "8/3/2017",
+              "to": "20/5/2017",
+              "rate": 0.28
+            },
+            {
+              "from": "20/5/2017",
+              "to": "31/8/2017",
+              "rate": 0.22
+            },
+            {
+              "from": "31/8/2017",
+              "to": "19/12/2017",
+              "rate": 0.39
+            },
+            {
+              "from": "19/12/2017",
+              "to": "2/1/2018",
+              "rate": 0.49
+            }
+          ]
+        },
+        {
+          "product_id": 34,
+          "sell_price": 20282000,
+          "buy_price": 14029000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "20/5/2017",
+              "rate": 0.13
+            },
+            {
+              "from": "20/5/2017",
+              "to": "1/8/2017",
+              "rate": 0.22
+            },
+            {
+              "from": "1/8/2017",
+              "to": "23/8/2017",
+              "rate": 0.21
+            },
+            {
+              "from": "23/8/2017",
+              "to": "7/9/2017",
+              "rate": 0.23
+            },
+            {
+              "from": "7/9/2017",
+              "to": "4/12/2017",
+              "rate": 0.14
+            },
+            {
+              "from": "4/12/2017",
+              "to": "2/1/2018",
+              "rate": 0.18
+            }
+          ]
+        },
+        {
+          "product_id": 35,
+          "sell_price": 100910000,
+          "buy_price": 83897000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "6/4/2017",
+              "rate": 0.16
+            },
+            {
+              "from": "6/4/2017",
+              "to": "1/8/2017",
+              "rate": 0
+            },
+            {
+              "from": "1/8/2017",
+              "to": "31/8/2017",
+              "rate": 0.02
+            },
+            {
+              "from": "31/8/2017",
+              "to": "12/11/2017",
+              "rate": 0.16
+            },
+            {
+              "from": "12/11/2017",
+              "to": "2/1/2018",
+              "rate": 0.08
+            }
+          ]
+        },
+        {
+          "product_id": 36,
+          "sell_price": 24484000,
+          "buy_price": 19882000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "13/5/2017",
+              "rate": 0.02
+            },
+            {
+              "from": "13/5/2017",
+              "to": "20/5/2017",
+              "rate": 0.09
+            },
+            {
+              "from": "20/5/2017",
+              "to": "4/6/2017",
+              "rate": 0.16
+            },
+            {
+              "from": "4/6/2017",
+              "to": "6/10/2017",
+              "rate": 0.1
+            },
+            {
+              "from": "6/10/2017",
+              "to": "2/1/2018",
+              "rate": 0.1
+            }
+          ]
+        },
+        {
+          "product_id": 37,
+          "sell_price": 6497000,
+          "buy_price": 5784000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "28/2/2017",
+              "rate": 0.01
+            },
+            {
+              "from": "28/2/2017",
+              "to": "4/6/2017",
+              "rate": 0.02
+            },
+            {
+              "from": "4/6/2017",
+              "to": "18/6/2017",
+              "rate": 0.03
+            },
+            {
+              "from": "18/6/2017",
+              "to": "22/9/2017",
+              "rate": 0.08
+            },
+            {
+              "from": "22/9/2017",
+              "to": "19/11/2017",
+              "rate": 0.06
+            },
+            {
+              "from": "19/11/2017",
+              "to": "2/1/2018",
+              "rate": 0.02
+            }
+          ]
+        },
+        {
+          "product_id": 38,
+          "sell_price": 44314000,
+          "buy_price": 18729000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "28/4/2017",
+              "rate": 0.1
+            },
+            {
+              "from": "28/4/2017",
+              "to": "9/8/2017",
+              "rate": 0.33
+            },
+            {
+              "from": "9/8/2017",
+              "to": "12/11/2017",
+              "rate": 0.31
+            },
+            {
+              "from": "12/11/2017",
+              "to": "2/1/2018",
+              "rate": 0.11
+            }
+          ]
+        },
+        {
+          "product_id": 39,
+          "sell_price": 15019000,
+          "buy_price": 7287000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "27/5/2017",
+              "rate": 0.12
+            },
+            {
+              "from": "27/5/2017",
+              "to": "2/1/2018",
+              "rate": 0.27
+            }
+          ]
+        },
+        {
+          "product_id": 40,
+          "sell_price": 1766000,
+          "buy_price": 1521000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "28/10/2017",
+              "rate": 0.09
+            },
+            {
+              "from": "28/10/2017",
+              "to": "2/1/2018",
+              "rate": 0.04
+            }
+          ]
+        },
+        {
+          "product_id": 41,
+          "sell_price": 19760000,
+          "buy_price": 17871000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "21/10/2017",
+              "rate": 0.05
+            },
+            {
+              "from": "21/10/2017",
+              "to": "2/1/2018",
+              "rate": 0.08
+            }
+          ]
+        },
+        {
+          "product_id": 42,
+          "sell_price": 27292000,
+          "buy_price": 14520000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "14/2/2017",
+              "rate": 0.16
+            },
+            {
+              "from": "14/2/2017",
+              "to": "7/9/2017",
+              "rate": 0.03
+            },
+            {
+              "from": "7/9/2017",
+              "to": "21/10/2017",
+              "rate": 0.46
+            },
+            {
+              "from": "21/10/2017",
+              "to": "27/11/2017",
+              "rate": 0.23
+            },
+            {
+              "from": "27/11/2017",
+              "to": "26/12/2017",
+              "rate": 0.37
+            },
+            {
+              "from": "26/12/2017",
+              "to": "2/1/2018",
+              "rate": 0.15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "contractor_id": 2,
+      "description": "Công Ty TNHH Công Nghệ Thông Tin Việt Nam",
+      "quality": 0.33,
+      "relationship": 0.47,
+      "products": [
+        {
+          "product_id": 0,
+          "sell_price": 8782000,
+          "buy_price": 8008000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "23/1/2017",
+              "rate": 0.08
+            },
+            {
+              "from": "23/1/2017",
+              "to": "6/4/2017",
+              "rate": 0.01
+            },
+            {
+              "from": "6/4/2017",
+              "to": "13/4/2017",
+              "rate": 0.07
+            },
+            {
+              "from": "13/4/2017",
+              "to": "28/10/2017",
+              "rate": 0.04
+            },
+            {
+              "from": "28/10/2017",
+              "to": "2/1/2018",
+              "rate": 0.03
+            }
+          ]
+        },
+        {
+          "product_id": 1,
+          "sell_price": 14884000,
+          "buy_price": 13108000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "18/7/2017",
+              "rate": 0.03
+            },
+            {
+              "from": "18/7/2017",
+              "to": "14/10/2017",
+              "rate": 0.09
+            },
+            {
+              "from": "14/10/2017",
+              "to": "2/1/2018",
+              "rate": 0.09
+            }
+          ]
+        },
+        {
+          "product_id": 2,
+          "sell_price": 3195000,
+          "buy_price": 2681000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "28/2/2017",
+              "rate": 0.08
+            },
+            {
+              "from": "28/2/2017",
+              "to": "13/4/2017",
+              "rate": 0.12
+            },
+            {
+              "from": "13/4/2017",
+              "to": "5/5/2017",
+              "rate": 0.09
+            },
+            {
+              "from": "5/5/2017",
+              "to": "26/6/2017",
+              "rate": 0.02
+            },
+            {
+              "from": "26/6/2017",
+              "to": "9/8/2017",
+              "rate": 0.08
+            },
+            {
+              "from": "9/8/2017",
+              "to": "2/1/2018",
+              "rate": 0.1
+            }
+          ]
+        },
+        {
+          "product_id": 3,
+          "sell_price": 8341000,
+          "buy_price": 8051000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "14/2/2017",
+              "rate": 0
+            },
+            {
+              "from": "14/2/2017",
+              "to": "13/4/2017",
+              "rate": 0.02
+            },
+            {
+              "from": "13/4/2017",
+              "to": "28/4/2017",
+              "rate": 0.02
+            },
+            {
+              "from": "28/4/2017",
+              "to": "3/7/2017",
+              "rate": 0.03
+            },
+            {
+              "from": "3/7/2017",
+              "to": "1/8/2017",
+              "rate": 0.01
+            },
+            {
+              "from": "1/8/2017",
+              "to": "2/1/2018",
+              "rate": 0.03
+            }
+          ]
+        },
+        {
+          "product_id": 4,
+          "sell_price": 2738000,
+          "buy_price": 2306000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "23/1/2017",
+              "rate": 0.11
+            },
+            {
+              "from": "23/1/2017",
+              "to": "1/8/2017",
+              "rate": 0.08
+            },
+            {
+              "from": "1/8/2017",
+              "to": "14/10/2017",
+              "rate": 0.12
+            },
+            {
+              "from": "14/10/2017",
+              "to": "5/11/2017",
+              "rate": 0.06
+            },
+            {
+              "from": "5/11/2017",
+              "to": "27/11/2017",
+              "rate": 0.06
+            },
+            {
+              "from": "27/11/2017",
+              "to": "2/1/2018",
+              "rate": 0.02
+            }
+          ]
+        },
+        {
+          "product_id": 5,
+          "sell_price": 15136000,
+          "buy_price": 11185000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "9/8/2017",
+              "rate": 0.19
+            },
+            {
+              "from": "9/8/2017",
+              "to": "2/1/2018",
+              "rate": 0.13
+            }
+          ]
+        },
+        {
+          "product_id": 6,
+          "sell_price": 15913000,
+          "buy_price": 11701000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "11/12/2017",
+              "rate": 0.08
+            },
+            {
+              "from": "11/12/2017",
+              "to": "2/1/2018",
+              "rate": 0.11
+            }
+          ]
+        },
+        {
+          "product_id": 7,
+          "sell_price": 25654000,
+          "buy_price": 21264000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "8/3/2017",
+              "rate": 0.11
+            },
+            {
+              "from": "8/3/2017",
+              "to": "28/4/2017",
+              "rate": 0.03
+            },
+            {
+              "from": "28/4/2017",
+              "to": "11/6/2017",
+              "rate": 0.17
+            },
+            {
+              "from": "11/6/2017",
+              "to": "18/6/2017",
+              "rate": 0.08
+            },
+            {
+              "from": "18/6/2017",
+              "to": "19/12/2017",
+              "rate": 0.07
+            },
+            {
+              "from": "19/12/2017",
+              "to": "2/1/2018",
+              "rate": 0.13
+            }
+          ]
+        },
+        {
+          "product_id": 8,
+          "sell_price": 1605000,
+          "buy_price": 1464000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "6/4/2017",
+              "rate": 0.04
+            },
+            {
+              "from": "6/4/2017",
+              "to": "13/4/2017",
+              "rate": 0.07
+            },
+            {
+              "from": "13/4/2017",
+              "to": "21/4/2017",
+              "rate": 0.01
+            },
+            {
+              "from": "21/4/2017",
+              "to": "18/6/2017",
+              "rate": 0.06
+            },
+            {
+              "from": "18/6/2017",
+              "to": "9/8/2017",
+              "rate": 0.06
+            },
+            {
+              "from": "9/8/2017",
+              "to": "2/1/2018",
+              "rate": 0.02
+            }
+          ]
+        },
+        {
+          "product_id": 9,
+          "sell_price": 13903000,
+          "buy_price": 11016000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "22/9/2017",
+              "rate": 0.07
+            },
+            {
+              "from": "22/9/2017",
+              "to": "2/1/2018",
+              "rate": 0.2
+            }
+          ]
+        },
+        {
+          "product_id": 10,
+          "sell_price": 3111000,
+          "buy_price": 2423000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "21/2/2017",
+              "rate": 0.01
+            },
+            {
+              "from": "21/2/2017",
+              "to": "5/11/2017",
+              "rate": 0.01
+            },
+            {
+              "from": "5/11/2017",
+              "to": "2/1/2018",
+              "rate": 0.04
+            }
+          ]
+        },
+        {
+          "product_id": 11,
+          "sell_price": 101589000,
+          "buy_price": 94513000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "13/5/2017",
+              "rate": 0.06
+            },
+            {
+              "from": "13/5/2017",
+              "to": "4/6/2017",
+              "rate": 0
+            },
+            {
+              "from": "4/6/2017",
+              "to": "2/1/2018",
+              "rate": 0.03
+            }
+          ]
+        },
+        {
+          "product_id": 12,
+          "sell_price": 38884000,
+          "buy_price": 27674000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "21/2/2017",
+              "rate": 0.24
+            },
+            {
+              "from": "21/2/2017",
+              "to": "8/3/2017",
+              "rate": 0.12
+            },
+            {
+              "from": "8/3/2017",
+              "to": "18/7/2017",
+              "rate": 0.08
+            },
+            {
+              "from": "18/7/2017",
+              "to": "12/11/2017",
+              "rate": 0.01
+            },
+            {
+              "from": "12/11/2017",
+              "to": "26/12/2017",
+              "rate": 0.22
+            },
+            {
+              "from": "26/12/2017",
+              "to": "2/1/2018",
+              "rate": 0.21
+            }
+          ]
+        },
+        {
+          "product_id": 13,
+          "sell_price": 503277000,
+          "buy_price": 321618000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "30/1/2017",
+              "rate": 0.31
+            },
+            {
+              "from": "30/1/2017",
+              "to": "2/1/2018",
+              "rate": 0.07
+            }
+          ]
+        },
+        {
+          "product_id": 14,
+          "sell_price": 324657000,
+          "buy_price": 245013000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "25/7/2017",
+              "rate": 0.23
+            },
+            {
+              "from": "25/7/2017",
+              "to": "2/1/2018",
+              "rate": 0.13
+            }
+          ]
+        },
+        {
+          "product_id": 15,
+          "sell_price": 107710000,
+          "buy_price": 103918000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "18/7/2017",
+              "rate": 0.01
+            },
+            {
+              "from": "18/7/2017",
+              "to": "2/1/2018",
+              "rate": 0.03
+            }
+          ]
+        },
+        {
+          "product_id": 16,
+          "sell_price": 336996000,
+          "buy_price": 253753000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "8/3/2017",
+              "rate": 0.22
+            },
+            {
+              "from": "8/3/2017",
+              "to": "2/1/2018",
+              "rate": 0.05
+            }
+          ]
+        },
+        {
+          "product_id": 17,
+          "sell_price": 82875000,
+          "buy_price": 81743000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "23/8/2017",
+              "rate": 0.01
+            },
+            {
+              "from": "23/8/2017",
+              "to": "2/1/2018",
+              "rate": 0.01
+            }
+          ]
+        },
+        {
+          "product_id": 18,
+          "sell_price": 74987000,
+          "buy_price": 60455000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "22/3/2017",
+              "rate": 0.14
+            },
+            {
+              "from": "22/3/2017",
+              "to": "6/4/2017",
+              "rate": 0.02
+            },
+            {
+              "from": "6/4/2017",
+              "to": "4/6/2017",
+              "rate": 0.11
+            },
+            {
+              "from": "4/6/2017",
+              "to": "25/7/2017",
+              "rate": 0.18
+            },
+            {
+              "from": "25/7/2017",
+              "to": "2/1/2018",
+              "rate": 0.05
+            }
+          ]
+        },
+        {
+          "product_id": 19,
+          "sell_price": 96679000,
+          "buy_price": 92507000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "30/1/2017",
+              "rate": 0.02
+            },
+            {
+              "from": "30/1/2017",
+              "to": "13/4/2017",
+              "rate": 0.03
+            },
+            {
+              "from": "13/4/2017",
+              "to": "11/6/2017",
+              "rate": 0
+            },
+            {
+              "from": "11/6/2017",
+              "to": "6/10/2017",
+              "rate": 0.02
+            },
+            {
+              "from": "6/10/2017",
+              "to": "11/12/2017",
+              "rate": 0.02
+            },
+            {
+              "from": "11/12/2017",
+              "to": "2/1/2018",
+              "rate": 0.04
+            }
+          ]
+        },
+        {
+          "product_id": 20,
+          "sell_price": 87021000,
+          "buy_price": 61140000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "15/1/2017",
+              "rate": 0.1
+            },
+            {
+              "from": "15/1/2017",
+              "to": "6/4/2017",
+              "rate": 0.17
+            },
+            {
+              "from": "6/4/2017",
+              "to": "2/1/2018",
+              "rate": 0.05
+            }
+          ]
+        },
+        {
+          "product_id": 21,
+          "sell_price": 63210000,
+          "buy_price": 46382000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "6/4/2017",
+              "rate": 0.07
+            },
+            {
+              "from": "6/4/2017",
+              "to": "2/1/2018",
+              "rate": 0.07
+            }
+          ]
+        },
+        {
+          "product_id": 22,
+          "sell_price": 2361000,
+          "buy_price": 2328000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "6/4/2017",
+              "rate": 0.01
+            },
+            {
+              "from": "6/4/2017",
+              "to": "23/8/2017",
+              "rate": 0
+            },
+            {
+              "from": "23/8/2017",
+              "to": "2/1/2018",
+              "rate": 0
+            }
+          ]
+        },
+        {
+          "product_id": 23,
+          "sell_price": 19106000,
+          "buy_price": 12743000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "14/2/2017",
+              "rate": 0.21
+            },
+            {
+              "from": "14/2/2017",
+              "to": "27/5/2017",
+              "rate": 0.13
+            },
+            {
+              "from": "27/5/2017",
+              "to": "3/7/2017",
+              "rate": 0.13
+            },
+            {
+              "from": "3/7/2017",
+              "to": "2/1/2018",
+              "rate": 0.01
+            }
+          ]
+        },
+        {
+          "product_id": 24,
+          "sell_price": 72346000,
+          "buy_price": 69676000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "21/4/2017",
+              "rate": 0.03
+            },
+            {
+              "from": "21/4/2017",
+              "to": "11/6/2017",
+              "rate": 0.02
+            },
+            {
+              "from": "11/6/2017",
+              "to": "1/8/2017",
+              "rate": 0.02
+            },
+            {
+              "from": "1/8/2017",
+              "to": "14/10/2017",
+              "rate": 0.02
+            },
+            {
+              "from": "14/10/2017",
+              "to": "2/1/2018",
+              "rate": 0
+            }
+          ]
+        },
+        {
+          "product_id": 25,
+          "sell_price": 11830000,
+          "buy_price": 8433000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "8/1/2017",
+              "rate": 0.12
+            },
+            {
+              "from": "8/1/2017",
+              "to": "2/1/2018",
+              "rate": 0.08
+            }
+          ]
+        },
+        {
+          "product_id": 26,
+          "sell_price": 67612000,
+          "buy_price": 52603000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "5/5/2017",
+              "rate": 0.02
+            },
+            {
+              "from": "5/5/2017",
+              "to": "14/9/2017",
+              "rate": 0.08
+            },
+            {
+              "from": "14/9/2017",
+              "to": "2/1/2018",
+              "rate": 0.22
+            }
+          ]
+        },
+        {
+          "product_id": 27,
+          "sell_price": 487736000,
+          "buy_price": 341221000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "26/6/2017",
+              "rate": 0.13
+            },
+            {
+              "from": "26/6/2017",
+              "to": "9/8/2017",
+              "rate": 0.17
+            },
+            {
+              "from": "9/8/2017",
+              "to": "2/1/2018",
+              "rate": 0.09
+            }
+          ]
+        },
+        {
+          "product_id": 28,
+          "sell_price": 88675000,
+          "buy_price": 75899000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "21/4/2017",
+              "rate": 0.07
+            },
+            {
+              "from": "21/4/2017",
+              "to": "20/5/2017",
+              "rate": 0.1
+            },
+            {
+              "from": "20/5/2017",
+              "to": "27/11/2017",
+              "rate": 0.08
+            },
+            {
+              "from": "27/11/2017",
+              "to": "2/1/2018",
+              "rate": 0.13
+            }
+          ]
+        },
+        {
+          "product_id": 29,
+          "sell_price": 5643000,
+          "buy_price": 5185000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "16/8/2017",
+              "rate": 0.03
+            },
+            {
+              "from": "16/8/2017",
+              "to": "5/11/2017",
+              "rate": 0.03
+            },
+            {
+              "from": "5/11/2017",
+              "to": "2/1/2018",
+              "rate": 0.07
+            }
+          ]
+        },
+        {
+          "product_id": 30,
+          "sell_price": 171460000,
+          "buy_price": 141491000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "23/8/2017",
+              "rate": 0.01
+            },
+            {
+              "from": "23/8/2017",
+              "to": "2/1/2018",
+              "rate": 0.14
+            }
+          ]
+        },
+        {
+          "product_id": 31,
+          "sell_price": 231684000,
+          "buy_price": 195847000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "14/2/2017",
+              "rate": 0.08
+            },
+            {
+              "from": "14/2/2017",
+              "to": "20/5/2017",
+              "rate": 0.13
+            },
+            {
+              "from": "20/5/2017",
+              "to": "27/5/2017",
+              "rate": 0.12
+            },
+            {
+              "from": "27/5/2017",
+              "to": "28/10/2017",
+              "rate": 0.05
+            },
+            {
+              "from": "28/10/2017",
+              "to": "19/12/2017",
+              "rate": 0.04
+            },
+            {
+              "from": "19/12/2017",
+              "to": "2/1/2018",
+              "rate": 0.03
+            }
+          ]
+        },
+        {
+          "product_id": 32,
+          "sell_price": 21662000,
+          "buy_price": 21362000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "15/3/2017",
+              "rate": 0
+            },
+            {
+              "from": "15/3/2017",
+              "to": "13/5/2017",
+              "rate": 0.01
+            },
+            {
+              "from": "13/5/2017",
+              "to": "12/11/2017",
+              "rate": 0
+            },
+            {
+              "from": "12/11/2017",
+              "to": "26/12/2017",
+              "rate": 0
+            },
+            {
+              "from": "26/12/2017",
+              "to": "2/1/2018",
+              "rate": 0.01
+            }
+          ]
+        },
+        {
+          "product_id": 33,
+          "sell_price": 511428000,
+          "buy_price": 443080000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "13/4/2017",
+              "rate": 0.03
+            },
+            {
+              "from": "13/4/2017",
+              "to": "25/7/2017",
+              "rate": 0.12
+            },
+            {
+              "from": "25/7/2017",
+              "to": "16/8/2017",
+              "rate": 0.07
+            },
+            {
+              "from": "16/8/2017",
+              "to": "28/10/2017",
+              "rate": 0.01
+            },
+            {
+              "from": "28/10/2017",
+              "to": "2/1/2018",
+              "rate": 0.13
+            }
+          ]
+        },
+        {
+          "product_id": 34,
+          "sell_price": 13569000,
+          "buy_price": 11961000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "13/4/2017",
+              "rate": 0.06
+            },
+            {
+              "from": "13/4/2017",
+              "to": "28/4/2017",
+              "rate": 0.08
+            },
+            {
+              "from": "28/4/2017",
+              "to": "21/10/2017",
+              "rate": 0
+            },
+            {
+              "from": "21/10/2017",
+              "to": "2/1/2018",
+              "rate": 0.02
+            }
+          ]
+        },
+        {
+          "product_id": 35,
+          "sell_price": 64819000,
+          "buy_price": 51844000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "30/3/2017",
+              "rate": 0.05
+            },
+            {
+              "from": "30/3/2017",
+              "to": "2/1/2018",
+              "rate": 0.18
+            }
+          ]
+        },
+        {
+          "product_id": 36,
+          "sell_price": 14350000,
+          "buy_price": 11060000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "25/7/2017",
+              "rate": 0.03
+            },
+            {
+              "from": "25/7/2017",
+              "to": "7/9/2017",
+              "rate": 0.13
+            },
+            {
+              "from": "7/9/2017",
+              "to": "2/1/2018",
+              "rate": 0.07
+            }
+          ]
+        },
+        {
+          "product_id": 37,
+          "sell_price": 3532000,
+          "buy_price": 3036000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "5/5/2017",
+              "rate": 0.09
+            },
+            {
+              "from": "5/5/2017",
+              "to": "31/8/2017",
+              "rate": 0.03
+            },
+            {
+              "from": "31/8/2017",
+              "to": "2/1/2018",
+              "rate": 0.11
+            }
+          ]
+        },
+        {
+          "product_id": 38,
+          "sell_price": 19510000,
+          "buy_price": 17708000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "20/5/2017",
+              "rate": 0.05
+            },
+            {
+              "from": "20/5/2017",
+              "to": "11/6/2017",
+              "rate": 0.05
+            },
+            {
+              "from": "11/6/2017",
+              "to": "5/11/2017",
+              "rate": 0.01
+            },
+            {
+              "from": "5/11/2017",
+              "to": "19/11/2017",
+              "rate": 0.01
+            },
+            {
+              "from": "19/11/2017",
+              "to": "2/1/2018",
+              "rate": 0.08
+            }
+          ]
+        },
+        {
+          "product_id": 39,
+          "sell_price": 9183000,
+          "buy_price": 8321000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "6/2/2017",
+              "rate": 0.05
+            },
+            {
+              "from": "6/2/2017",
+              "to": "21/4/2017",
+              "rate": 0.09
+            },
+            {
+              "from": "21/4/2017",
+              "to": "13/5/2017",
+              "rate": 0.01
+            },
+            {
+              "from": "13/5/2017",
+              "to": "18/6/2017",
+              "rate": 0.02
+            },
+            {
+              "from": "18/6/2017",
+              "to": "16/8/2017",
+              "rate": 0.05
+            },
+            {
+              "from": "16/8/2017",
+              "to": "2/1/2018",
+              "rate": 0.02
+            }
+          ]
+        },
+        {
+          "product_id": 40,
+          "sell_price": 1036000,
+          "buy_price": 986000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "15/1/2017",
+              "rate": 0.04
+            },
+            {
+              "from": "15/1/2017",
+              "to": "14/2/2017",
+              "rate": 0.04
+            },
+            {
+              "from": "14/2/2017",
+              "to": "16/8/2017",
+              "rate": 0.03
+            },
+            {
+              "from": "16/8/2017",
+              "to": "2/1/2018",
+              "rate": 0.01
+            }
+          ]
+        },
+        {
+          "product_id": 41,
+          "sell_price": 18024000,
+          "buy_price": 16207000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "22/3/2017",
+              "rate": 0.03
+            },
+            {
+              "from": "22/3/2017",
+              "to": "5/5/2017",
+              "rate": 0.09
+            },
+            {
+              "from": "5/5/2017",
+              "to": "22/9/2017",
+              "rate": 0
+            },
+            {
+              "from": "22/9/2017",
+              "to": "21/10/2017",
+              "rate": 0.05
+            },
+            {
+              "from": "21/10/2017",
+              "to": "2/1/2018",
+              "rate": 0.08
+            }
+          ]
+        },
+        {
+          "product_id": 42,
+          "sell_price": 16348000,
+          "buy_price": 13379000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "14/2/2017",
+              "rate": 0.03
+            },
+            {
+              "from": "14/2/2017",
+              "to": "11/6/2017",
+              "rate": 0.15
+            },
+            {
+              "from": "11/6/2017",
+              "to": "2/1/2018",
+              "rate": 0.01
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "contractor_id": 3,
+      "description": "Công Ty Cổ Phần Nguyễn Quân",
+      "quality": 0.67,
+      "relationship": 0.97,
+      "products": [
+        {
+          "product_id": 0,
+          "sell_price": 14190000,
+          "buy_price": 8219000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "28/4/2017",
+              "rate": 0.37
+            },
+            {
+              "from": "28/4/2017",
+              "to": "26/6/2017",
+              "rate": 0.26
+            },
+            {
+              "from": "26/6/2017",
+              "to": "25/7/2017",
+              "rate": 0.37
+            },
+            {
+              "from": "25/7/2017",
+              "to": "2/1/2018",
+              "rate": 0.38
+            }
+          ]
+        },
+        {
+          "product_id": 1,
+          "sell_price": 19015000,
+          "buy_price": 10540000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "6/4/2017",
+              "rate": 0.13
+            },
+            {
+              "from": "6/4/2017",
+              "to": "18/6/2017",
+              "rate": 0.13
+            },
+            {
+              "from": "18/6/2017",
+              "to": "5/11/2017",
+              "rate": 0.07
+            },
+            {
+              "from": "5/11/2017",
+              "to": "4/12/2017",
+              "rate": 0.04
+            },
+            {
+              "from": "4/12/2017",
+              "to": "2/1/2018",
+              "rate": 0.13
+            }
+          ]
+        },
+        {
+          "product_id": 2,
+          "sell_price": 4698000,
+          "buy_price": 3421000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "22/3/2017",
+              "rate": 0.27
+            },
+            {
+              "from": "22/3/2017",
+              "to": "2/1/2018",
+              "rate": 0.16
+            }
+          ]
+        },
+        {
+          "product_id": 3,
+          "sell_price": 15854000,
+          "buy_price": 8239000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "22/3/2017",
+              "rate": 0.38
+            },
+            {
+              "from": "22/3/2017",
+              "to": "6/10/2017",
+              "rate": 0.1
+            },
+            {
+              "from": "6/10/2017",
+              "to": "2/1/2018",
+              "rate": 0.47
+            }
+          ]
+        },
+        {
+          "product_id": 4,
+          "sell_price": 3887000,
+          "buy_price": 2529000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "14/2/2017",
+              "rate": 0.18
+            },
+            {
+              "from": "14/2/2017",
+              "to": "18/6/2017",
+              "rate": 0.14
+            },
+            {
+              "from": "18/6/2017",
+              "to": "2/1/2018",
+              "rate": 0.04
+            }
+          ]
+        },
+        {
+          "product_id": 5,
+          "sell_price": 17008000,
+          "buy_price": 13206000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "10/7/2017",
+              "rate": 0.18
+            },
+            {
+              "from": "10/7/2017",
+              "to": "2/1/2018",
+              "rate": 0.04
+            }
+          ]
+        },
+        {
+          "product_id": 6,
+          "sell_price": 22832000,
+          "buy_price": 17273000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "3/7/2017",
+              "rate": 0.09
+            },
+            {
+              "from": "3/7/2017",
+              "to": "19/11/2017",
+              "rate": 0.02
+            },
+            {
+              "from": "19/11/2017",
+              "to": "2/1/2018",
+              "rate": 0.24
+            }
+          ]
+        },
+        {
+          "product_id": 7,
+          "sell_price": 34281000,
+          "buy_price": 20724000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "1/8/2017",
+              "rate": 0.32
+            },
+            {
+              "from": "1/8/2017",
+              "to": "16/8/2017",
+              "rate": 0.18
+            },
+            {
+              "from": "16/8/2017",
+              "to": "14/9/2017",
+              "rate": 0.01
+            },
+            {
+              "from": "14/9/2017",
+              "to": "19/11/2017",
+              "rate": 0.23
+            },
+            {
+              "from": "19/11/2017",
+              "to": "2/1/2018",
+              "rate": 0.38
+            }
+          ]
+        },
+        {
+          "product_id": 8,
+          "sell_price": 3076000,
+          "buy_price": 2741000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "14/2/2017",
+              "rate": 0
+            },
+            {
+              "from": "14/2/2017",
+              "to": "20/5/2017",
+              "rate": 0.03
+            },
+            {
+              "from": "20/5/2017",
+              "to": "11/12/2017",
+              "rate": 0.04
+            },
+            {
+              "from": "11/12/2017",
+              "to": "2/1/2018",
+              "rate": 0.06
+            }
+          ]
+        },
+        {
+          "product_id": 9,
+          "sell_price": 18866000,
+          "buy_price": 18773000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "15/3/2017",
+              "rate": 0
+            },
+            {
+              "from": "15/3/2017",
+              "to": "18/6/2017",
+              "rate": 0
+            },
+            {
+              "from": "18/6/2017",
+              "to": "6/10/2017",
+              "rate": 0
+            },
+            {
+              "from": "6/10/2017",
+              "to": "2/1/2018",
+              "rate": 0
+            }
+          ]
+        },
+        {
+          "product_id": 10,
+          "sell_price": 2876000,
+          "buy_price": 2755000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "21/2/2017",
+              "rate": 0.02
+            },
+            {
+              "from": "21/2/2017",
+              "to": "20/5/2017",
+              "rate": 0.04
+            },
+            {
+              "from": "20/5/2017",
+              "to": "10/7/2017",
+              "rate": 0.01
+            },
+            {
+              "from": "10/7/2017",
+              "to": "29/9/2017",
+              "rate": 0.04
+            },
+            {
+              "from": "29/9/2017",
+              "to": "5/11/2017",
+              "rate": 0.04
+            },
+            {
+              "from": "5/11/2017",
+              "to": "2/1/2018",
+              "rate": 0.04
+            }
+          ]
+        },
+        {
+          "product_id": 11,
+          "sell_price": 111604000,
+          "buy_price": 94899000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "15/1/2017",
+              "rate": 0.1
+            },
+            {
+              "from": "15/1/2017",
+              "to": "23/1/2017",
+              "rate": 0.02
+            },
+            {
+              "from": "23/1/2017",
+              "to": "14/2/2017",
+              "rate": 0.1
+            },
+            {
+              "from": "14/2/2017",
+              "to": "8/3/2017",
+              "rate": 0.08
+            },
+            {
+              "from": "8/3/2017",
+              "to": "29/9/2017",
+              "rate": 0.03
+            },
+            {
+              "from": "29/9/2017",
+              "to": "2/1/2018",
+              "rate": 0.13
+            }
+          ]
+        },
+        {
+          "product_id": 12,
+          "sell_price": 51627000,
+          "buy_price": 41585000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "23/1/2017",
+              "rate": 0.16
+            },
+            {
+              "from": "23/1/2017",
+              "to": "31/8/2017",
+              "rate": 0.18
+            },
+            {
+              "from": "31/8/2017",
+              "to": "2/1/2018",
+              "rate": 0
+            }
+          ]
+        },
+        {
+          "product_id": 13,
+          "sell_price": 630518000,
+          "buy_price": 338389000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "21/2/2017",
+              "rate": 0.3
+            },
+            {
+              "from": "21/2/2017",
+              "to": "31/8/2017",
+              "rate": 0.3
+            },
+            {
+              "from": "31/8/2017",
+              "to": "2/1/2018",
+              "rate": 0.06
+            }
+          ]
+        },
+        {
+          "product_id": 14,
+          "sell_price": 504875000,
+          "buy_price": 456409000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "21/2/2017",
+              "rate": 0.06
+            },
+            {
+              "from": "21/2/2017",
+              "to": "5/5/2017",
+              "rate": 0.07
+            },
+            {
+              "from": "5/5/2017",
+              "to": "11/6/2017",
+              "rate": 0.03
+            },
+            {
+              "from": "11/6/2017",
+              "to": "2/1/2018",
+              "rate": 0.09
+            }
+          ]
+        },
+        {
+          "product_id": 15,
+          "sell_price": 156906000,
+          "buy_price": 139481000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "11/6/2017",
+              "rate": 0.04
+            },
+            {
+              "from": "11/6/2017",
+              "to": "25/7/2017",
+              "rate": 0.02
+            },
+            {
+              "from": "25/7/2017",
+              "to": "7/9/2017",
+              "rate": 0.02
+            },
+            {
+              "from": "7/9/2017",
+              "to": "26/12/2017",
+              "rate": 0.08
+            },
+            {
+              "from": "26/12/2017",
+              "to": "2/1/2018",
+              "rate": 0.08
+            }
+          ]
+        },
+        {
+          "product_id": 16,
+          "sell_price": 468813000,
+          "buy_price": 243696000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "31/8/2017",
+              "rate": 0.13
+            },
+            {
+              "from": "31/8/2017",
+              "to": "6/10/2017",
+              "rate": 0.08
+            },
+            {
+              "from": "6/10/2017",
+              "to": "26/12/2017",
+              "rate": 0.48
+            },
+            {
+              "from": "26/12/2017",
+              "to": "2/1/2018",
+              "rate": 0.42
+            }
+          ]
+        },
+        {
+          "product_id": 17,
+          "sell_price": 103624000,
+          "buy_price": 63654000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "8/1/2017",
+              "rate": 0.26
+            },
+            {
+              "from": "8/1/2017",
+              "to": "15/3/2017",
+              "rate": 0.33
+            },
+            {
+              "from": "15/3/2017",
+              "to": "4/6/2017",
+              "rate": 0.33
+            },
+            {
+              "from": "4/6/2017",
+              "to": "23/8/2017",
+              "rate": 0.06
+            },
+            {
+              "from": "23/8/2017",
+              "to": "11/12/2017",
+              "rate": 0.32
+            },
+            {
+              "from": "11/12/2017",
+              "to": "2/1/2018",
+              "rate": 0.26
+            }
+          ]
+        },
+        {
+          "product_id": 18,
+          "sell_price": 79103000,
+          "buy_price": 54866000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "6/10/2017",
+              "rate": 0.23
+            },
+            {
+              "from": "6/10/2017",
+              "to": "2/1/2018",
+              "rate": 0.07
+            }
+          ]
+        },
+        {
+          "product_id": 19,
+          "sell_price": 108801000,
+          "buy_price": 103336000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "27/5/2017",
+              "rate": 0.04
+            },
+            {
+              "from": "27/5/2017",
+              "to": "3/7/2017",
+              "rate": 0
+            },
+            {
+              "from": "3/7/2017",
+              "to": "9/8/2017",
+              "rate": 0.05
+            },
+            {
+              "from": "9/8/2017",
+              "to": "28/10/2017",
+              "rate": 0.04
+            },
+            {
+              "from": "28/10/2017",
+              "to": "2/1/2018",
+              "rate": 0.04
+            }
+          ]
+        },
+        {
+          "product_id": 20,
+          "sell_price": 105250000,
+          "buy_price": 103254000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "3/7/2017",
+              "rate": 0
+            },
+            {
+              "from": "3/7/2017",
+              "to": "14/10/2017",
+              "rate": 0.01
+            },
+            {
+              "from": "14/10/2017",
+              "to": "2/1/2018",
+              "rate": 0
+            }
+          ]
+        },
+        {
+          "product_id": 21,
+          "sell_price": 98441000,
+          "buy_price": 64451000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "23/1/2017",
+              "rate": 0
+            },
+            {
+              "from": "23/1/2017",
+              "to": "30/3/2017",
+              "rate": 0.25
+            },
+            {
+              "from": "30/3/2017",
+              "to": "1/8/2017",
+              "rate": 0.15
+            },
+            {
+              "from": "1/8/2017",
+              "to": "28/10/2017",
+              "rate": 0.23
+            },
+            {
+              "from": "28/10/2017",
+              "to": "19/12/2017",
+              "rate": 0.07
+            },
+            {
+              "from": "19/12/2017",
+              "to": "2/1/2018",
+              "rate": 0.19
+            }
+          ]
+        },
+        {
+          "product_id": 22,
+          "sell_price": 3487000,
+          "buy_price": 1537000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "28/2/2017",
+              "rate": 0.44
+            },
+            {
+              "from": "28/2/2017",
+              "to": "30/3/2017",
+              "rate": 0.32
+            },
+            {
+              "from": "30/3/2017",
+              "to": "4/6/2017",
+              "rate": 0.08
+            },
+            {
+              "from": "4/6/2017",
+              "to": "10/7/2017",
+              "rate": 0.5
+            },
+            {
+              "from": "10/7/2017",
+              "to": "2/1/2018",
+              "rate": 0.47
+            }
+          ]
+        },
+        {
+          "product_id": 23,
+          "sell_price": 24131000,
+          "buy_price": 14296000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "22/3/2017",
+              "rate": 0.05
+            },
+            {
+              "from": "22/3/2017",
+              "to": "20/5/2017",
+              "rate": 0.24
+            },
+            {
+              "from": "20/5/2017",
+              "to": "3/7/2017",
+              "rate": 0.03
+            },
+            {
+              "from": "3/7/2017",
+              "to": "22/9/2017",
+              "rate": 0.05
+            },
+            {
+              "from": "22/9/2017",
+              "to": "2/1/2018",
+              "rate": 0.22
+            }
+          ]
+        },
+        {
+          "product_id": 24,
+          "sell_price": 97776000,
+          "buy_price": 60287000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "21/4/2017",
+              "rate": 0.06
+            },
+            {
+              "from": "21/4/2017",
+              "to": "20/5/2017",
+              "rate": 0.25
+            },
+            {
+              "from": "20/5/2017",
+              "to": "26/6/2017",
+              "rate": 0.22
+            },
+            {
+              "from": "26/6/2017",
+              "to": "18/7/2017",
+              "rate": 0.02
+            },
+            {
+              "from": "18/7/2017",
+              "to": "2/1/2018",
+              "rate": 0.38
+            }
+          ]
+        },
+        {
+          "product_id": 25,
+          "sell_price": 16020000,
+          "buy_price": 11952000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "16/8/2017",
+              "rate": 0.09
+            },
+            {
+              "from": "16/8/2017",
+              "to": "2/1/2018",
+              "rate": 0.12
+            }
+          ]
+        },
+        {
+          "product_id": 26,
+          "sell_price": 82705000,
+          "buy_price": 81939000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "14/2/2017",
+              "rate": 0
+            },
+            {
+              "from": "14/2/2017",
+              "to": "28/2/2017",
+              "rate": 0
+            },
+            {
+              "from": "28/2/2017",
+              "to": "5/5/2017",
+              "rate": 0
+            },
+            {
+              "from": "5/5/2017",
+              "to": "1/8/2017",
+              "rate": 0
+            },
+            {
+              "from": "1/8/2017",
+              "to": "2/1/2018",
+              "rate": 0
+            }
+          ]
+        },
+        {
+          "product_id": 27,
+          "sell_price": 713055000,
+          "buy_price": 348129000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "28/2/2017",
+              "rate": 0.36
+            },
+            {
+              "from": "28/2/2017",
+              "to": "6/4/2017",
+              "rate": 0.51
+            },
+            {
+              "from": "6/4/2017",
+              "to": "27/5/2017",
+              "rate": 0.2
+            },
+            {
+              "from": "27/5/2017",
+              "to": "29/9/2017",
+              "rate": 0.35
+            },
+            {
+              "from": "29/9/2017",
+              "to": "2/1/2018",
+              "rate": 0.09
+            }
+          ]
+        },
+        {
+          "product_id": 28,
+          "sell_price": 75184000,
+          "buy_price": 75002000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "30/3/2017",
+              "rate": 0
+            },
+            {
+              "from": "30/3/2017",
+              "to": "13/5/2017",
+              "rate": 0
+            },
+            {
+              "from": "13/5/2017",
+              "to": "27/5/2017",
+              "rate": 0
+            },
+            {
+              "from": "27/5/2017",
+              "to": "2/1/2018",
+              "rate": 0
+            }
+          ]
+        },
+        {
+          "product_id": 29,
+          "sell_price": 6877000,
+          "buy_price": 5658000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "18/6/2017",
+              "rate": 0.09
+            },
+            {
+              "from": "18/6/2017",
+              "to": "2/1/2018",
+              "rate": 0.13
+            }
+          ]
+        },
+        {
+          "product_id": 30,
+          "sell_price": 195984000,
+          "buy_price": 158902000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "22/3/2017",
+              "rate": 0.14
+            },
+            {
+              "from": "22/3/2017",
+              "to": "19/11/2017",
+              "rate": 0.06
+            },
+            {
+              "from": "19/11/2017",
+              "to": "2/1/2018",
+              "rate": 0.06
+            }
+          ]
+        },
+        {
+          "product_id": 31,
+          "sell_price": 232737000,
+          "buy_price": 159164000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "20/5/2017",
+              "rate": 0.3
+            },
+            {
+              "from": "20/5/2017",
+              "to": "2/1/2018",
+              "rate": 0.09
+            }
+          ]
+        },
+        {
+          "product_id": 32,
+          "sell_price": 39056000,
+          "buy_price": 22489000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "28/2/2017",
+              "rate": 0.38
+            },
+            {
+              "from": "28/2/2017",
+              "to": "30/3/2017",
+              "rate": 0.25
+            },
+            {
+              "from": "30/3/2017",
+              "to": "21/10/2017",
+              "rate": 0.28
+            },
+            {
+              "from": "21/10/2017",
+              "to": "28/10/2017",
+              "rate": 0.39
+            },
+            {
+              "from": "28/10/2017",
+              "to": "12/11/2017",
+              "rate": 0.34
+            },
+            {
+              "from": "12/11/2017",
+              "to": "2/1/2018",
+              "rate": 0.05
+            }
+          ]
+        },
+        {
+          "product_id": 33,
+          "sell_price": 754636000,
+          "buy_price": 556225000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "10/7/2017",
+              "rate": 0.05
+            },
+            {
+              "from": "10/7/2017",
+              "to": "18/7/2017",
+              "rate": 0.07
+            },
+            {
+              "from": "18/7/2017",
+              "to": "16/8/2017",
+              "rate": 0.02
+            },
+            {
+              "from": "16/8/2017",
+              "to": "28/10/2017",
+              "rate": 0.04
+            },
+            {
+              "from": "28/10/2017",
+              "to": "2/1/2018",
+              "rate": 0.04
+            }
+          ]
+        },
+        {
+          "product_id": 34,
+          "sell_price": 17350000,
+          "buy_price": 14724000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "28/2/2017",
+              "rate": 0.11
+            },
+            {
+              "from": "28/2/2017",
+              "to": "13/4/2017",
+              "rate": 0.09
+            },
+            {
+              "from": "13/4/2017",
+              "to": "5/5/2017",
+              "rate": 0.09
+            },
+            {
+              "from": "5/5/2017",
+              "to": "20/5/2017",
+              "rate": 0.02
+            },
+            {
+              "from": "20/5/2017",
+              "to": "6/10/2017",
+              "rate": 0.05
+            },
+            {
+              "from": "6/10/2017",
+              "to": "2/1/2018",
+              "rate": 0.13
+            }
+          ]
+        },
+        {
+          "product_id": 35,
+          "sell_price": 90859000,
+          "buy_price": 69316000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "21/10/2017",
+              "rate": 0.21
+            },
+            {
+              "from": "21/10/2017",
+              "to": "12/11/2017",
+              "rate": 0.12
+            },
+            {
+              "from": "12/11/2017",
+              "to": "2/1/2018",
+              "rate": 0.21
+            }
+          ]
+        },
+        {
+          "product_id": 36,
+          "sell_price": 19215000,
+          "buy_price": 16864000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "21/2/2017",
+              "rate": 0.11
+            },
+            {
+              "from": "21/2/2017",
+              "to": "26/6/2017",
+              "rate": 0.05
+            },
+            {
+              "from": "26/6/2017",
+              "to": "14/9/2017",
+              "rate": 0.06
+            },
+            {
+              "from": "14/9/2017",
+              "to": "2/1/2018",
+              "rate": 0.08
+            }
+          ]
+        },
+        {
+          "product_id": 37,
+          "sell_price": 5702000,
+          "buy_price": 3357000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "22/3/2017",
+              "rate": 0.37
+            },
+            {
+              "from": "22/3/2017",
+              "to": "11/6/2017",
+              "rate": 0.4
+            },
+            {
+              "from": "11/6/2017",
+              "to": "26/6/2017",
+              "rate": 0.07
+            },
+            {
+              "from": "26/6/2017",
+              "to": "22/9/2017",
+              "rate": 0.01
+            },
+            {
+              "from": "22/9/2017",
+              "to": "5/11/2017",
+              "rate": 0.41
+            },
+            {
+              "from": "5/11/2017",
+              "to": "2/1/2018",
+              "rate": 0.19
+            }
+          ]
+        },
+        {
+          "product_id": 38,
+          "sell_price": 35923000,
+          "buy_price": 20080000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "8/3/2017",
+              "rate": 0.19
+            },
+            {
+              "from": "8/3/2017",
+              "to": "23/8/2017",
+              "rate": 0.1
+            },
+            {
+              "from": "23/8/2017",
+              "to": "31/8/2017",
+              "rate": 0.29
+            },
+            {
+              "from": "31/8/2017",
+              "to": "19/11/2017",
+              "rate": 0.39
+            },
+            {
+              "from": "19/11/2017",
+              "to": "2/1/2018",
+              "rate": 0.2
+            }
+          ]
+        },
+        {
+          "product_id": 39,
+          "sell_price": 12777000,
+          "buy_price": 12416000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "5/5/2017",
+              "rate": 0.01
+            },
+            {
+              "from": "5/5/2017",
+              "to": "3/7/2017",
+              "rate": 0.02
+            },
+            {
+              "from": "3/7/2017",
+              "to": "1/8/2017",
+              "rate": 0
+            },
+            {
+              "from": "1/8/2017",
+              "to": "2/1/2018",
+              "rate": 0.01
+            }
+          ]
+        },
+        {
+          "product_id": 40,
+          "sell_price": 1267000,
+          "buy_price": 1162000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "26/6/2017",
+              "rate": 0.05
+            },
+            {
+              "from": "26/6/2017",
+              "to": "29/9/2017",
+              "rate": 0
+            },
+            {
+              "from": "29/9/2017",
+              "to": "11/12/2017",
+              "rate": 0.06
+            },
+            {
+              "from": "11/12/2017",
+              "to": "2/1/2018",
+              "rate": 0.02
+            }
+          ]
+        },
+        {
+          "product_id": 41,
+          "sell_price": 35536000,
+          "buy_price": 24309000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "21/2/2017",
+              "rate": 0.24
+            },
+            {
+              "from": "21/2/2017",
+              "to": "15/3/2017",
+              "rate": 0.1
+            },
+            {
+              "from": "15/3/2017",
+              "to": "22/3/2017",
+              "rate": 0.24
+            },
+            {
+              "from": "22/3/2017",
+              "to": "3/7/2017",
+              "rate": 0.05
+            },
+            {
+              "from": "3/7/2017",
+              "to": "2/1/2018",
+              "rate": 0.2
+            }
+          ]
+        },
+        {
+          "product_id": 42,
+          "sell_price": 20657000,
+          "buy_price": 17019000,
+          "discounts": [
+            {
+              "from": "1/1/2017",
+              "to": "13/5/2017",
+              "rate": 0.14
+            },
+            {
+              "from": "13/5/2017",
+              "to": "4/6/2017",
+              "rate": 0.04
+            },
+            {
+              "from": "4/6/2017",
+              "to": "11/6/2017",
+              "rate": 0.05
+            },
+            {
+              "from": "11/6/2017",
+              "to": "2/1/2018",
+              "rate": 0.07
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

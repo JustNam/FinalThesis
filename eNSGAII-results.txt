@@ -1,0 +1,65 @@
+Result 1:
+	Adaptive Function : 7,965,000
+	Cost : 3,354,904
+	Comparative value: 11,319,904
+	Execution time: 4,292
+
+Result 2:
+	Adaptive Function : 7,724,390
+	Cost : 3,389,724
+	Comparative value: 11,114,114
+	Execution time: 2,360
+
+Result 3:
+	Adaptive Function : 7,778,545
+	Cost : 3,414,242
+	Comparative value: 11,192,787
+	Execution time: 2,328
+
+Result 4:
+	Adaptive Function : 8,234,220
+	Cost : 3,432,961
+	Comparative value: 11,667,181
+	Execution time: 2,322
+
+Result 5:
+	Adaptive Function : 8,130,270
+	Cost : 3,401,498
+	Comparative value: 11,531,768
+	Execution time: 2,446
+
+Result 6:
+	Adaptive Function : 8,073,367
+	Cost : 3,341,642
+	Comparative value: 11,415,009
+	Execution time: 2,242
+
+Result 7:
+	Adaptive Function : 7,907,211
+	Cost : 3,366,307
+	Comparative value: 11,273,518
+	Execution time: 2,143
+
+Result 8:
+	Adaptive Function : 7,742,396
+	Cost : 3,402,057
+	Comparative value: 11,144,453
+	Execution time: 2,099
+
+Result 9:
+	Adaptive Function : 7,936,860
+	Cost : 3,391,979
+	Comparative value: 11,328,839
+	Execution time: 2,353
+
+Result 10:
+	Adaptive Function : 7,821,593
+	Cost : 3,430,120
+	Comparative value: 11,251,713
+	Execution time: 2,090
+
+AVARAGE RESULT:
+	Adaptive Function: 7931385.00
+	Cost : 3392543.25
+	Comparative value: 11323929.00
+	Execution time: 2467.50 miliseconds
