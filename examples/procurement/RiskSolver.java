@@ -91,11 +91,11 @@ public class RiskSolver {
 
 			String algo = new String("eNSGAII");
 			PrintWriter writer = null;
-			int noTest = 10;
-			ArrayList<Long> adaArr = new ArrayList<Long>();
-			ArrayList<Long> cosArr = new ArrayList<Long>();
-			ArrayList<Long> comArr = new ArrayList<Long>();
-			ArrayList<Long> timeArr = new ArrayList<Long>();
+			int noTest = 1;
+			ArrayList<Long> adaArr = new ArrayList<>();
+			ArrayList<Long> cosArr = new ArrayList<>();
+			ArrayList<Long> comArr = new ArrayList<>();
+			ArrayList<Long> timeArr = new ArrayList<>();
 			try {
 				StringBuilder stringBuilder = new StringBuilder();
 				stringBuilder.append(algo);
@@ -120,7 +120,6 @@ public class RiskSolver {
 				result.sort(comparator);
 
 				/* print results */
-//				for (int i = 0; i < 10; i++) {
 				for (int i = 0; i < result.size(); i = i + result.size()) {
 
 					Solution solution = result.get(i);

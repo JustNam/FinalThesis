@@ -73,9 +73,19 @@ public class RiskProblem implements Problem {
 		numMethod = (long) result2.get(0);
 
 		/* Get risks and methods, conflicts*/
-		Criteria cr3 = RiskSolver.session.createCriteria(Risks.class);
-		Criteria cr4 = RiskSolver.session.createCriteria(Methods.class);
-		Criteria cr5 = RiskSolver.session.createCriteria(Conflicts.class);
+		Criteria cr3 = RiskSolver.session
+                        .createCriteria(Risks.class)
+                        .createCriteria("projects","p")
+                        .add(Restrictions.eq("id", projectId));
+		Criteria cr4 = RiskSolver.session
+                        .createCriteria(Methods.class)
+                        .createCriteria("risks","r")
+                        .createCriteria("projects","p")
+                        .add(Restrictions.eq("id",projectId));
+		Criteria cr5 = RiskSolver.session
+                        .createCriteria(Conflicts.class)
+                        .createCriteria("projects")
+                        .add(Restrictions.eq("id", projectId));
 
 		risks = (ArrayList<Risks>) cr3.list();
 		methods = (ArrayList<Methods>) cr4.list();
