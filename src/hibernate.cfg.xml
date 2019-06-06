@@ -9,16 +9,11 @@
   <property name="hibernate.connection.username">root</property>
   <property name="hibernate.dialect">org.hibernate.dialect.MySQLDialect</property>
   <property name="hibernate.current_session_context_class">thread</property>
-  <mapping class="procurement.entity.risk.CiMigrations"/>
-  <mapping class="procurement.entity.risk.Conflicts"/>
-  <mapping class="procurement.entity.risk.Fitness"/>
-  <mapping class="procurement.entity.risk.IonGroups"/>
-  <mapping class="procurement.entity.risk.IonLoginAttempts"/>
-  <mapping class="procurement.entity.risk.IonUsersGroups"/>
-  <mapping class="procurement.entity.risk.Methods"/>
-  <mapping class="procurement.entity.risk.Projects"/>
-  <mapping class="procurement.entity.risk.Risks"/>
-  <mapping class="procurement.entity.risk.RiskTypes"/>
-  <mapping class="procurement.entity.risk.Users"/>
+  <mapping class="risk.entity.Conflicts"/>
+  <mapping class="risk.entity.Fitness"/>
+  <mapping class="risk.entity.Methods"/>
+  <mapping class="risk.entity.Projects"/>
+  <mapping class="risk.entity.Risks"/>
+  <mapping class="risk.entity.RiskTypes"/>
  </session-factory>
 </hibernate-configuration>
