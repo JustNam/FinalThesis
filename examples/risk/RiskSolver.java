@@ -131,7 +131,7 @@ public class RiskSolver {
                     System.out.println("	Comparative value: " + com);
 
                     /* Print detailed result */
-                    riskProblem.setPrint(false);
+                    riskProblem.setPrint(true);
                     riskProblem.evaluate(solution);
                     methodChoice.add(riskProblem.getFinalMethodChoice());
 
