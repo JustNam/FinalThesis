@@ -31,7 +31,6 @@ public class RiskProblem implements Problem {
 	private ArrayList<Methods> methods;
 	private ArrayList<Conflicts> conflicts;
 	private boolean print;
-//	private int i =0;//test
 	// Accelerate speed of computation 
 	private List<Object[]> conflictsList;
 	private int[] finalMethodChoice;
@@ -118,10 +117,6 @@ public class RiskProblem implements Problem {
 		
 		/* Get numConflict LAZY*/
 		numConflict = conflicts.size();
-		
-		System.out.println("Number of risks for project " + projectId +" is: "+numRisk);
-		System.out.println("Number of methods for project " + projectId +" is: "+numMethod);
-		System.out.println("Number of conflicts for project " + projectId +" is: "+numConflict);
     	
 	}
 
@@ -162,19 +157,6 @@ public class RiskProblem implements Problem {
 	@Override
 	public int getNumberOfConstraints() {
 		return 1;
-//		return 0;
-	}
-
-	public void test() {
-		int[] methodChoice = {4,9,24,26,36,43,56,58,68,75,81,89,103,108,119,124,135,140,148,156,167,176,184,192,199,207,209,217,232,236,248,256,264,267,278,285,289,300,305,316,323,329,337,349,356,363,376,377,388,397,404,415,423,427,434,447,449,460,468,478,482,491,498,508,514,524,529,539,549,553,562,571,584,589,598,608,616,623,626,640,641,649,660,667,679,681,694,698,706,720,727,733,743,749,756,764,774,779,788,795,804,815,824,829,839,844,852,860,867,874,882,890,899,906,914,921,930,938,951,955,963,976,979,987,995,1002,1014,1020,1026,1033,1041,1050,1058,1067,1080,1087,1096,1104,1108,1114,1122,1135,1142,1145,1154,1161,1169,1177,1187,1199,1208,1210};
-		for (int i = 0; i < methodChoice.length; i++) { // methodChoice.length == risks.size()
-
-			/* Load risk and method from id */
-			Risks risk = risks.get(i);
-			Set<Methods> methodsSet = risk.getMethodses();
-			List methodList = new ArrayList<>();
-			methodList.addAll(methodsSet);
-		}
 	}
 
 	@Override
@@ -218,9 +200,6 @@ public class RiskProblem implements Problem {
 					+ fitness.getTime() * method.getTime());
 
 			adaptiveFuntion += riskPara * (100 - method.getEfficiency()) / 100 + methodPara;
-			if (adaptiveFuntion < 0) {
-				System.out.println();
-			}
 			
 			/* Calculate total of cost */
 			cost += risk.getFinancialImpact() * risk.getProbability() * (100 - method.getEfficiency()) / 10000
@@ -231,28 +210,6 @@ public class RiskProblem implements Problem {
 		/* Print detail of results */
 		if (print) {
                         finalMethodChoice = methodIDs;
-			/* Position of methods in solutions */
-			System.out.println("	Methods for risks (ID of Risk / ID of Method risk and method respectively): ");
-			System.out.print("	[");
-			for (int i = 0; i < methodChoice.length; i++) {
-				System.out.format("%04d", i);
-				if (i < methodChoice.length - 1) {
-					System.out.print(',');
-				}
-			}
-			System.out.println("]");
-
-
-			/* methodID */
-			System.out.print("	[");
-			for (int i = 0; i < methodChoice.length; i++) {
-				System.out.format("%04d", methodIDs[i]);
-				if (i < methodChoice.length - 1) {
-					System.out.print(',');
-				}
-			}
-			System.out.println("]");
-			
 		}
 		
 		/* Set objectives, smallest */

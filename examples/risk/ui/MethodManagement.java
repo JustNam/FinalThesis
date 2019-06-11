@@ -138,7 +138,6 @@ public class MethodManagement extends javax.swing.JPanel {
 
     }
     public Methods getMethodFromTable(){
-        //need to fix
         Methods method = new MethodBuilder()
                 .addId(Integer.valueOf(idLabel.getText()))
                 .addCode(codeField.getText())
@@ -482,7 +481,6 @@ public class MethodManagement extends javax.swing.JPanel {
     private void newBtnMouseReleased(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_newBtnMouseReleased
         // TODO add your handling code here:
         if(validateData()){
-            //need to fix userId
             Methods method = new MethodBuilder()
             .addCode(codeField.getText())
             .addDescription(descriptionTxt.getText())

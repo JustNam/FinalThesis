@@ -326,7 +326,6 @@ public class ConflictManagement extends javax.swing.JPanel {
     private void newBtnMouseReleased(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_newBtnMouseReleased
         // TODO add your handling code here:
         if(validateData()){
-            //need to fix project
             Projects tempProject = ProjectController.index().get(0);
             Conflicts project = new ConflictBuilder()
                     .addCode(codeField.getText())

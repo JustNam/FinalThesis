@@ -83,7 +83,6 @@ public class ProjectManagement extends javax.swing.JPanel {
         finishedCb.setSelected((project.getFinished()==1)?true:false);
     }
     public Projects getProjectFromTable(){
-        //need to fix
         Projects project = new ProjectBuilder()
                 .addId(Integer.valueOf(idLabel.getText()))
                 .addCode(codeField.getText())
@@ -329,7 +328,6 @@ public class ProjectManagement extends javax.swing.JPanel {
     private void newBtnMouseReleased(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_newBtnMouseReleased
         // TODO add your handling code here:
         if(validateData()){
-        //need to fix userId    
             Projects project = new ProjectBuilder()
                     .addCode(codeField.getText())
                     .addDescription(descriptionTxt.getText())
